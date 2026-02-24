@@ -1,0 +1,1587 @@
+[
+  {
+    "image": "validation/images/-DXgAnuaSe6TtQ9Hbm3G2A.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a snow-covered road on the left and a building on the right. Pedestrians are walking along the path. The path is clear for next 10 meters.",
+    "prediction": "Miniature Dollhouse Furniture -."
+  },
+  {
+    "image": "validation/images/0008.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a grassy area with trees on the right. A pole stands on the right side 5 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in one hand and a microphone stand in the other. The person is wearing a black t-shirt and is holding a white microphone in one hand and a microphone stand in the other."
+  },
+  {
+    "image": "validation/images/0014.jpg",
+    "target": "The sidewalk is centered in the view, bordered by dense bushes on the left and a road on the right. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in their hand. They are looking at the camera and smiling."
+  },
+  {
+    "image": "validation/images/0020.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a tall hedge on the left and a road on the right. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in their hand. They are looking at the camera and smiling."
+  },
+  {
+    "image": "validation/images/0028.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a tall hedge on the left and a road on the right. A utility box stands approximately 10 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "Greenwich, CT - October 14, 2016: A view of the exterior of the Greenwich High School."
+  },
+  {
+    "image": "validation/images/0033.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a grassy area with trees on the right. A manhole cover is embedded in the sidewalk 3 meters ahead, partially obstructing the path. The path is clear for navigation.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in one hand and a microphone stand in the other. The person is wearing a black t-shirt and is holding a white microphone in one hand and a microphone stand in the other."
+  },
+  {
+    "image": "validation/images/0041.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a grassy area with trees on the right side. A road runs parallel to the left side. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in their hand. They are looking at the camera and smiling."
+  },
+  {
+    "image": "validation/images/0043.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bike lane on the left and a building on the right. A pedestrian crossing is visible 5 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Road Runner Sports, Inc. is a family owned and operated business that has been in business for over 30 years. We are located in the heart of the San Francisco Bay Area. We specialize in the sales and service of quality used bicycles. We also offer a full line of bicycle parts and accessories. We are a family owned and operated business that has been in business for over 30 years. We are located in the heart of the San Francisco Bay Area. We specialize in the sales and service of quality used bicycles. We also offer a full line of bicycle parts and accessories. We are a family owned and operated business."
+  },
+  {
+    "image": "validation/images/0045.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a bike lane on the left. A metal utility cover is embedded in the sidewalk 3 meters ahead, partially obstructing the path. The path is clear for navigation.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in their hand. They are looking at the camera and smiling."
+  },
+  {
+    "image": "validation/images/0046.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a hedge on the right side and a road on the left. A pole stands approximately 3 meters ahead on the right, partially obstructing the path. The path appears clear for navigation.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in their hand. They are looking at the camera and smiling."
+  },
+  {
+    "image": "validation/images/0051.jpg",
+    "target": "The sidewalk is on the right side of the view, separated from the road by a white dashed line. A bicycle lane is on the left side. The path is clear for next 10 meters.",
+    "prediction": "Brighton & Hove Albion F.C. Homepage. This."
+  },
+  {
+    "image": "validation/images/0071.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a hedge on the right side and a road on the left. A utility cover is embedded in the sidewalk 5 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Purely Natural - Purely Natural -."
+  },
+  {
+    "image": "validation/images/0073.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a concrete wall on the right and a road on the left. The path is clear for next 10 meters.",
+    "prediction": "Miniature Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24 Scale Model Kit 1/24."
+  },
+  {
+    "image": "validation/images/0077.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a stone wall on the right and a road on the left. A construction barrier with a metal frame stands approximately 3 meters ahead, partially obstructing the path. A traffic sign pole is positioned near the barrier, around 2 meters ahead. The path is mostly clear for navigation.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/0093.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a wall with bushes on the right side and parked cars on the left. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/0106.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a building on the right. A pole stands approximately 2 meters ahead on the right side, partially obstructing the path. The path appears mostly clear for navigation.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in their hand. They are looking at the camera and smiling."
+  },
+  {
+    "image": "validation/images/0115.jpg",
+    "target": "The cobblestone path is centered, bordered by buildings on both sides. A large window with a view of the street is positioned on the left side, 3 meters away. The path is clear for navigation.",
+    "prediction": "A photo of a man in a suit and a woman in a dress standing in front of a wall. The woman is wearing a black dress and the man is wearing a white shirt and a black suit. The woman is looking at the camera and smiling. The man is looking at the camera and smiling."
+  },
+  {
+    "image": "validation/images/0149.jpg",
+    "target": "The cobblestone street is centered, with a pedestrian crossing sign and a 6t speed limit sign on the left. A bicycle is parked on the right side, 5 meters ahead. The path is clear for navigation.",
+    "prediction": "A photo of the front of the book. It is a photo of the front of the book. It is a photo of the front of the book. It is a photo of the front of the book. It is a photo of the front of the book. It is a photo of the front of the book. It is a photo of the front of the book. It is a photo of the front of the book. It is a photo of the front of the book. It is a photo of the front of the book. It is a photo of the front of the book. It is a photo of the front of the."
+  },
+  {
+    "image": "validation/images/0169.jpg",
+    "target": "The sidewalk is centered in the view, leading towards a pedestrian crossing with traffic lights. A large tree stands on the left side, partially blocking the path. A car is parked on the left, 5 meters away. The path is clear for next 10 meters.",
+    "prediction": "View a Larger Image of T-Shirt, Long-Sleeved, 100% Cotton, Sizes S-3XL."
+  },
+  {
+    "image": "validation/images/0178.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road with parked cars on the left. A large metal box partially obstructs the path 3 meters ahead. The path is mostly clear for navigation.",
+    "prediction": "View larger image of Bicycle Bike Bicycle Bike Bicycle Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike Bike B."
+  },
+  {
+    "image": "validation/images/0195.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road on the left. A traffic light pole stands approximately 3 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/0199.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a stone wall on the right and a road on the left. A metal railing with a small step leading down to a lower area is positioned 3 meters ahead. The path is clear for navigation.",
+    "prediction": "Pink Floyd - Wish You Were Here (Remastered) [CD]."
+  },
+  {
+    "image": "validation/images/0203.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a row of recycling bins on the left and a grassy area with trees on the right. A parking sign stands approximately 5 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "Samsung Galaxy S6 Edge Plus (SM-G928A) 32GB Unlocked GSM Smartphone (Certified Refurbished) (Certified Refurbished)."
+  },
+  {
+    "image": "validation/images/0215.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the right and bushes on the left. A speed limit sign stands approximately 5 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "Parking de l'hôtel de ville de Saint-Étienne-du-Rouvray - Saint-Étienne-du-Rouvray - Saint-Étienne-du-Rouvray - Saint-Étienne-du-Rouvray - Saint-Étienne-du-Rouvray - Saint-Étienne-du-Rouvray - Saint-Étienne-du-Rouvray - Saint-Étienne-du-Rouvray - Saint-Étienne-du-Rouvray -."
+  },
+  {
+    "image": "validation/images/0221.jpg",
+    "target": "The sidewalk is centered in the view, bordered by hedges on the left and a grassy area with trees on the right. A pole stands on the right side, 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. There is a black and white photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes."
+  },
+  {
+    "image": "validation/images/0224.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a hedge on the right and a road on the left. A tree stands approximately 5 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "Brighton & Hove Albion F.C. Homepage. This."
+  },
+  {
+    "image": "validation/images/0236.jpg",
+    "target": "The sidewalk is centered in the view, with a staircase leading upwards on the right side. The path is clear for next 10 meters.",
+    "prediction": "Staples Canada - Buy Office Supplies, Office Furniture, School Supplies and More at Staples.ca. Your one-stop shop for Office Supplies, Office Furniture, School Supplies and More. Shop Staples.ca online for Office Supplies, Office Furniture, School Supplies and More. Your one-stop shop for Office Supplies, Office Furniture, School Supplies and More. Shop Staples.ca online for Office Supplies, Office Furniture, School Supplies and More. Your one-stop shop for Office Supplies, Office Furniture, School Supplies and More. Shop Sta."
+  },
+  {
+    "image": "validation/images/0240.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and parked cars on the left. A manhole cover is embedded in the pavement 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/0247.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a hedge on the left and a road on the right. A car is parked on the left side of the road, 5 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Toyota Land Cruiser Prado 120 Series 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2."
+  },
+  {
+    "image": "validation/images/0249.jpg",
+    "target": "The sidewalk is centered in the view, bordered by bushes on the left and a road on the right. A car is parked 5 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "Toyota Land Cruiser Prado 120 Series 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2.2 D-4D 4WD 2."
+  },
+  {
+    "image": "validation/images/0259.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a wooden fence on the left and a road on the right. A trash bin stands approximately 2 meters ahead on the left side, partially obstructing the path. The path appears clear for navigation.",
+    "prediction": "Garage Door Opener Repair Services in San Diego, CA."
+  },
+  {
+    "image": "validation/images/0260.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a metal fence on the right and a road on the left. A trash bin stands approximately 3 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in their hand. They are looking at the camera and smiling."
+  },
+  {
+    "image": "validation/images/0264.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bike lane on the left and a pedestrian area on the right. A bus stop is visible on the left side, approximately 10 meters away. The path is clear for next 10 meters.",
+    "prediction": "Photo of the front side of a black and white photo of a man standing in front of a white background. He is wearing a white shirt, black pants, and black shoes. He is holding a black and white photo of a woman in front of a white background. She is wearing a white shirt, black pants, and black shoes. She is holding a black and white photo of a man in front of a white background. He is wearing a white shirt, black pants, and black shoes. She is holding a black and white photo of a woman in front of a white background. She is wearing a white shirt, black pants,."
+  },
+  {
+    "image": "validation/images/0265.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bike lane on the left and a road on the right. A cyclist is riding along the bike lane, approximately 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Cycling in the Algarve, Portugal: The Algarve is one of the most popular cycling destinations in the world. The Algarve is one of the most popular cycling destinations in the world. The Algarve is home to some of the best cycling roads in the world. The Algarve is also home to some of the best beaches in the world. The Algarve is also home to some of the best golf courses in the world. The Algarve is also home to some of the best beaches in the world. The Algarve is also home to some of the best golf courses in the world."
+  },
+  {
+    "image": "validation/images/0275.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a road on the right. A large blue pole stands directly ahead, partially obstructing the path. A pedestrian crossing sign is mounted on a pole approximately 5 meters ahead. The path is mostly clear for navigation.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/0277.jpg",
+    "target": "The sidewalk is on the left side of the view, bordered by parked cars on the right. The path is clear for next 10 meters.",
+    "prediction": "Carbon Fiber Fender Flares for Ford Mustang GT 5.0L V8 (2009-2014) - 1 Piece - Carbon Fiber - Fits: 2009-2014 Ford Mustang GT 5.0L V8 - 1 Piece - Carbon Fiber - Fits: 2009-2014 Ford Mustang GT 5.0L V8 - 1 Piece - Carbon Fiber - Fits: 2009-2014 Ford Mustang GT 5.0L V8 - 1 Piece - Carbon Fiber - Fits: 2009-2014 Ford Mustang GT 5.0L V8 - 1 Piece - Carbon Fiber - F."
+  },
+  {
+    "image": "validation/images/0284.jpg",
+    "target": "The sidewalk is on the left side of the view, bordered by a road with parked cars on the left and a wall on the right. A cyclist is riding along the road on the left, 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Berlin, Germany - May 15, 2017: A view of the Berlin Wall. The Berlin Wall was a barrier that divided Berlin into two parts from 1961 to 1989. It was built by the East German government to prevent the spread of communism in East Germany. The Berlin Wall was a barrier that divided Berlin into two parts from 1961 to 1989. It was built by the East German government to prevent the spread of communism in East Germany. The Berlin Wall was a barrier that divided Berlin into two parts from 1961 to 1989. It was built by the East German government to prevent the spread of communism in East Germany. The Berlin Wall was a barrier."
+  },
+  {
+    "image": "validation/images/0296.jpg",
+    "target": "The sidewalk is centered in the view, leading towards a building entrance with a large glass door. A row of tall columns stands on the left side, partially obstructing the path. The path is clear for navigation.",
+    "prediction": "A photo of a man in a suit and a woman in a dress standing in front of a white wall. They are both holding hands and looking at the camera. The man is wearing a black suit and the woman is wearing a white dress. They are both facing the camera. The man is wearing a black suit and the woman is wearing a white dress. They are both looking at the camera. They are standing in front of a white wall. The man is wearing a black suit and the woman is wearing a white dress. They are both looking at the camera. They are standing in front of a white wall. The man is wearing."
+  },
+  {
+    "image": "validation/images/0299.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a hedge on the left and a row of wooden posts on the right. The path is clear for next 10 meters.",
+    "prediction": "Photo of the front of a black and white photo of a man standing in front of a white background. He is wearing a black suit and a white shirt. He is looking to the left and to the right of the photo. He is standing in front of a white background. He is wearing a black suit and a white shirt. He is looking to the left and to the right of the photo. He is standing in front of a white background. He is wearing a black suit and a white shirt. He is looking to the left and to the right of the photo. He is standing in front of a white background. He is."
+  },
+  {
+    "image": "validation/images/0310.jpg",
+    "target": "The sidewalk is centered in the view, bordered by bushes on the right side and open grassy area on the left. A pedestrian is walking ahead, approximately 10 meters away. The path is clear for next 10 meters.",
+    "prediction": "Walk in the shoes of a real estate agent in this fun and exciting game!."
+  },
+  {
+    "image": "validation/images/0319.jpg",
+    "target": "The sidewalk is centered in the view, leading to a Kaufland entrance with stairs on both sides. A lamppost stands 5 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "Kristina's Kitchen - Recipes: Pork Tenderloin with Garlic and Herb Butter."
+  },
+  {
+    "image": "validation/images/0327.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building with large windows on the left and a road on the right. The path is clear for next 10 meters.",
+    "prediction": "Samsung Galaxy S6 Edge Plus (SM-G928A) 32GB Unlocked GSM 4G LTE Android Smartphone (Certified Refurbished) (Certified Refurbished)."
+  },
+  {
+    "image": "validation/images/0329.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a glass-walled building on the left and a row of parked bicycles on the right. The path is clear for next 10 meters.",
+    "prediction": "Brighton & Hove Albion v Crystal Palace - Premier League - The Amex Stadium, Brighton and Hove, East Sussex, UK - Saturday, October 6, 2018. Crystal Palace manager Roy Hodgson (L) and Brighton and Hove Albion manager Chris Hughton (R) look on during the Premier League match between Brighton and Hove Albion and Crystal Palace at The Amex Stadium, Brighton and Hove, East Sussex, England on Saturday, October 6, 2018. Crystal Palace manager Roy Hodgson (L) and Brighton and Hove Albion manager Chris Hughton (R) look."
+  },
+  {
+    "image": "validation/images/0341.jpg",
+    "target": "The sidewalk is centered in the view, leading up a steep staircase with a metal railing on the left side. The stairs are wide and well-maintained, with no immediate obstacles.",
+    "prediction": "Staveley, Derbyshire, UK - August 19, 2018: A view of the exterior of the Staveley Mill, a former cotton mill in the village of Staveley, Derbyshire, UK. The mill was built in 1847 and is now a museum."
+  },
+  {
+    "image": "validation/images/0342.jpg",
+    "target": "The wide pedestrian area is centered, with a few people walking and sitting along the sides. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in their hand. They are looking at the camera and smiling."
+  },
+  {
+    "image": "validation/images/0346.jpg",
+    "target": "The sidewalk is centered in the view, bordered by dense bushes on the right side and a road on the left. The path is clear for next 10 meters.",
+    "prediction": "Road Trip to the Big Apple: New York City, New York, United States of America (USA)."
+  },
+  {
+    "image": "validation/images/0349.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a tall metal fence on the right side and hedges on the left. The path is clear for next 10 meters.",
+    "prediction": "Stainless Steel Wire Mesh Fence,."
+  },
+  {
+    "image": "validation/images/0366.jpg",
+    "target": "The sidewalk is centered in the view, leading to a forked path with a bicycle sign at 10 meters ahead. A pole stands on the left side, 5 meters ahead, partially obstructing the path. The path is clear for navigation.",
+    "prediction": "Photo of the front side of a black and white photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. The person is looking to the left and to the right of the photo. The person is standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. The person is standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. The person is standing in front of a white background. The person is wearing a white shirt, black pants, and black."
+  },
+  {
+    "image": "validation/images/0367.jpg",
+    "target": "The sidewalk is centered in the view, leading to a pedestrian crossing with a red bike lane on the right. A traffic light pole stands approximately 5 meters ahead, slightly to the right. The path is clear for next 10 meters.",
+    "prediction": "Parking Lot Signs, Parking Lot Signs Suppliers and Manufacturers at Alibaba.com."
+  },
+  {
+    "image": "validation/images/0387.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and parked cars on the right. A pole stands approximately 3 meters ahead on the left side, partially obstructing the path. The path remains mostly clear for navigation.",
+    "prediction": "Samsung Galaxy S6 Edge Plus (SM-G928A) 32GB Unlocked GSM Smartphone (Certified Refurbished) (Certified Refurbished)."
+  },
+  {
+    "image": "validation/images/0393.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a wooden fence on the right and a road on the left. A pile of trash bags is placed near the fence, partially obstructing the path. A scooter is parked against the wall approximately 3 meters ahead. The path is mostly clear for navigation.",
+    "prediction": "A photo of a man in a suit and tie standing in front of a white wall. He is wearing a blue shirt, a black tie, and a black vest. He is looking at the camera with a serious expression on his face."
+  },
+  {
+    "image": "validation/images/0400.jpg",
+    "target": "The sidewalk is centered in the view, leading to a narrow passage between two buildings. A metal railing on the right side and a trash bin on the right side partially obstruct the path. The path is clear for navigation.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/0401.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a wall on the right and parked cars on the left. A pole stands approximately 5 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "Trendy and stylish, this is the perfect gift for the fashionista in your life. It is made of high-quality materials, and it is easy to clean and maintain. It is a perfect gift for the fashionista in your life. It is made of high-quality materials, and it is easy to clean and maintain. It is a perfect gift for the fashionista in your life. It is made of high-quality materials, and it is easy to clean and maintain. It is a perfect gift for the fashionista in your life. It is made of high-quality materials, and it is easy to clean and."
+  },
+  {
+    "image": "validation/images/0410.jpg",
+    "target": "The sidewalk is centered in the view, bordered by hedges on the left and a blue bike lane on the right. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in their hand. They are looking at the camera and smiling."
+  },
+  {
+    "image": "validation/images/0415.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a metal fence on the right and parked cars on the left. The path is clear for next 10 meters.",
+    "prediction": "View full screen - View 1 of Lot 7. Lot 7. SOLD. SOLD. View full screen - View 3 of Lot 7. Lot 7. SOLD. SOLD. View full screen - View 4 of Lot 7. Lot 7. SOLD. SOLD. View full screen - View 5 of Lot 7. Lot 7. SOLD. SOLD. View full screen - View 6 of Lot 7. Lot 7. SOLD. SOLD. View full screen - View 7 of Lot."
+  },
+  {
+    "image": "validation/images/0420.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a row of parked e-scooters on the right side. A bus stop with a shelter is visible 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Eco-Friendly Products - Eco-Friendly Products -."
+  },
+  {
+    "image": "validation/images/0422.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road on the left. The path is clear for next 10 meters.",
+    "prediction": "Photo of the front side of a black and white photo of a man standing in front of a white background. He is wearing a blue shirt, a black jacket, and a black hat. He is looking to the left and to the right of the photo. He is standing in front of a white background. He is wearing a blue shirt, a black jacket, and a black hat. He is looking to the left and to the right of the photo. He is standing in front of a white background. He is wearing a blue shirt, a black jacket, and a black hat. He is looking to the left and to the right."
+  },
+  {
+    "image": "validation/images/0425.jpg",
+    "target": "The sidewalk is centered in the view, with a construction warning sign placed approximately 3 meters ahead. On the right side, a bicycle is parked near a railing. The path is clear for navigation.",
+    "prediction": "Celebrating 50 years of the Caterpillar brand, Caterpillar is the world's leading manufacturer of construction and mining equipment, diesel and natural gas engines, diesel and natural gas generators, and diesel and natural gas truck and bus engines. Caterpillar is the world's leading manufacturer of construction and mining equipment, diesel and natural gas engines, diesel and natural gas generators, and diesel and natural gas truck and bus engines. Caterpillar is the world's leading manufacturer of construction and mining equipment, diesel and natural gas engines, diesel and natural gas generators, and diesel and natural gas truck and bus engines."
+  },
+  {
+    "image": "validation/images/0430.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a hedge on the right side and a road on the left. The path is clear for next 10 meters.",
+    "prediction": "Pathway to Success: How to Become a Successful Entrepreneur."
+  },
+  {
+    "image": "validation/images/0453.jpg",
+    "target": "The sidewalk is centered in the view, bordered by bushes and trees on the left side. A pole stands on the left 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Parking space for sale in the center of the city."
+  },
+  {
+    "image": "validation/images/0458.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a road with parked cars on the right. A pole stands approximately 3 meters ahead, partially obstructing the path. The path is clear for navigation.",
+    "prediction": "Photo of the front view of a black and white photo of a person standing in front of a white background. The person is wearing a black and white striped t-shirt and is holding a black and white striped bag. The person is standing in front of a white background. The person is wearing a black and white striped t-shirt and is holding a black and white striped bag. The person is standing in front of a white background. The person is wearing a black and white striped t-shirt and is holding a black and white striped bag. The person is standing in front of a white background. The."
+  },
+  {
+    "image": "validation/images/0468.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a construction barrier on the right side and parked cars on the left. The path is clear for next 10 meters.",
+    "prediction": "Construction of a new residential building in the city of Krasnodar."
+  },
+  {
+    "image": "validation/images/0477.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a stone wall on the right and a building on the left. A tree stands on the left side, partially blocking the path. The path is clear for next 10 meters.",
+    "prediction": "Photo of the front of a black and white photo of a man standing in front of a white background. He is wearing a white shirt, black pants, and black shoes. He is holding a black and white photo of a woman in front of a white background. She is wearing a white shirt, black pants, and black shoes. She is holding a black and white photo of a man in front of a white background. He is wearing a white shirt, black pants, and black shoes. She is holding a black and white photo of a woman in front of a white background. She is wearing a white shirt, black pants, and."
+  },
+  {
+    "image": "validation/images/0501.jpg",
+    "target": "The sidewalk is centered in the view, bordered by dense greenery on both sides. A wooden fence on the left narrows the path slightly. The path is clear for next 10 meters.",
+    "prediction": "Pathways to the Future: The Role of the Arts in the 21st-Century Economy."
+  },
+  {
+    "image": "validation/images/0509.jpg",
+    "target": "The sidewalk is centered in the view, leading to a steep staircase with metal railings on both sides. A pedestrian sign stands approximately 5 meters ahead, indicating the end of the path. The path is clear for navigation.",
+    "prediction": "Stairway to Heaven: The Story of Led Zeppelin's 'Stairway to Heaven'."
+  },
+  {
+    "image": "validation/images/0542.jpg",
+    "target": "The sidewalk is centered in the view, with a wet surface. A pole stands on the right side, 3 meters ahead. On the left, a construction barrier blocks the path. The path is clear for navigation.",
+    "prediction": "Parkinson's Disease: What You Need to Know | Parkinson's Disease | Scoop.it."
+  },
+  {
+    "image": "validation/images/0546.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and parked cars on the left. A pole with a parking sign stands approximately 2 meters ahead on the right side. The path is clear for navigation.",
+    "prediction": "Parking Lot Signs, Parking Lot Signs Suppliers and Manufacturers at Alibaba.com."
+  },
+  {
+    "image": "validation/images/0556.jpg",
+    "target": "The sidewalk is centered in the view, leading to a staircase with metal railings on both sides. A fire hydrant stands approximately 10 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "A picture of the front and back of a black and white photo of a man standing in front of a white background. He is wearing a white shirt, black pants, and black shoes. He is holding a black and white photo of a woman in front of a white background. She is wearing a white shirt, black pants, and black shoes."
+  },
+  {
+    "image": "validation/images/0559.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a railing on the right side and a road on the left. A bus stop with a shelter is positioned approximately 5 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Bild 1 von Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-Made Tailor-."
+  },
+  {
+    "image": "validation/images/0574.jpg",
+    "target": "The sidewalk is centered in the view, bordered by parked cars on the left and a road on the right. A stop sign stands approximately 5 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "Street view of a building with a sign that reads: 'Museum of the History of Polish Jews' and a sign that reads: 'Museum of the History of Polish Jews' and a sign that reads: 'Museum of the History of Polish Jews' and a sign that reads: 'Museum of the History of Polish Jews' and a sign that reads: 'Museum of the History of Polish Jews' and a sign that reads: 'Museum of the History of Polish Jews' and a sign that reads: 'Museum of the History of Polish Jews' and a sign that reads: 'Museum of the."
+  },
+  {
+    "image": "validation/images/0580.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road with parked cars on the left and a brick-paved path on the right. A tree stands approximately 5 meters ahead on the right side. The path appears clear for navigation.",
+    "prediction": "Blue Ridge Parkway, North Carolina, United States of America, North America - August 10, 2018: Aerial view of the Blue Ridge Parkway, a scenic byway in the Blue Ridge Mountains of North Carolina, USA. The Blue Ridge Parkway is a scenic byway in the Blue Ridge Mountains of North Carolina, United States of America. The Blue Ridge Parkway is a scenic byway in the Blue Ridge Mountains of North Carolina, United States of America. The Blue Ridge Parkway is a scenic byway in the Blue Ridge Mountains of North Carolina, United States of America. The Blue Ridge Parkway is a scenic byway."
+  },
+  {
+    "image": "validation/images/0582.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road with parked cars on the left and a hedge on the right. A lamppost stands approximately 5 meters ahead on the left side. The path appears clear for navigation.",
+    "prediction": "Dreaming of a white Christmas? Here's how to make it happen with a little help from your friends."
+  },
+  {
+    "image": "validation/images/0595.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building with a covered bicycle parking area on the left and a row of trees on the right. The path is clear for next 10 meters.",
+    "prediction": "Brighton & Hove Albion F.C. Homepage. This."
+  },
+  {
+    "image": "validation/images/0596.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and parked cars on the right. A lamppost stands approximately 5 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "View full screen - View 1 of Lot 7. Sotheby's International Realty. All Rights Reserved, Sotheby's International Realty. All Rights Reserved. Sotheby's International Realty. All Rights Reserved. Sotheby's International Realty. All Rights Reserved. Sotheby's International Realty. All Rights Reserved. Sotheby's International Realty. All Rights Reserved. Sotheby's International Realty. All Rights Reserved. Sotheby's International Realty. All Rights Reserved. Sotheby's International Re."
+  },
+  {
+    "image": "validation/images/0599.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a wooden railing on the left and a grassy area with trees on the right. The path is clear for next 10 meters.",
+    "prediction": "\"<a href=\"\"http://ireport.cnn.com/docs/DOC-1044687\"\">Amanda Lepore</a><br><br><br><a href=\"\"http://ireport.cnn.com/docs/DOC-1044687\"\">Amanda Lepore</a><br><br><br><a href=\"\"http://ireport.cnn.com/docs/DOC-1044687\"\">Amanda Lepore</a><br><br><br><a href=\"\"http://ireport.cnn.com/docs/."
+  },
+  {
+    "image": "validation/images/0611.jpg",
+    "target": "The sidewalk is centered in the view, bordered by snow-covered bushes and trees on both sides. A pole stands approximately 5 meters ahead on the right side, partially obstructing the path. The path appears clear for navigation.",
+    "prediction": "Snow White and the Huntsman (2012) - Movie Poster."
+  },
+  {
+    "image": "validation/images/0641.jpg",
+    "target": "The sidewalk is centered in the view, bordered by snow-covered ground on both sides. A row of wooden posts lines the right side, while trees stand on the left. The path is clear for next 10 meters.",
+    "prediction": "Winter is coming, and it's time to start thinking about what you're going to wear for the holidays. If you're like me, you probably have a lot of questions about what to wear to a holiday party. I've put together a list of some of the most common questions I get about what to wear to a holiday party. 1. What should I wear to a holiday party? 2. What should I wear to a holiday party? 3. What should I wear to a holiday party? 4. What should I wear to a holiday party? 5. What should I wear to a holiday party? 6. What should I."
+  },
+  {
+    "image": "validation/images/0644.jpg",
+    "target": "The sidewalk is centered in the view, leading to a pedestrian bridge with metal railings on both sides. A road runs parallel to the left side of the sidewalk. The path is clear for next 10 meters.",
+    "prediction": "Dreaming of a white Christmas? Here's how to make it happen with a little help from your friends."
+  },
+  {
+    "image": "validation/images/0648.jpg",
+    "target": "The sidewalk is centered in the view, bordered by buildings on both sides. A parking sign is visible 10 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "Stainless Steel Kitchen Sink : Stainless steel kitchen sink stainless steel kitchen sink suppliers and. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel."
+  },
+  {
+    "image": "validation/images/0654.jpg",
+    "target": "The sidewalk is centered in the view, leading down a snowy staircase with metal railings on both sides. A warning sign stands on the left side, approximately 2 meters ahead. The path is clear for navigation.",
+    "prediction": "Snow White and the Huntsman (2012) - Movie Poster."
+  },
+  {
+    "image": "validation/images/0668.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road with bollards on the left. The path is clear for next 10 meters.",
+    "prediction": "Photo of the front cover of the book."
+  },
+  {
+    "image": "validation/images/0669.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building with large windows on the left and a road on the right. A bicycle is parked against the wall on the left side, 5 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Photo of the front cover of the book 'The Art of War' by Sun Tzu. The book is about the art of war. The book is about the art of war. The book is about the art of war. The book is about the art of war. The book is about the art of war. The book is about the art of war. The book is about the art of war. The book is about the art of war. The book is about the art of war. The book is about the art of war. The book is about the art of war. The book is about the art of war. The."
+  },
+  {
+    "image": "validation/images/0672.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a bike rack on the left. A manhole cover is embedded in the pavement 2 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "A picture of the front and back of a black and white photo of a man standing in front of a white background. He is wearing a white shirt, black pants, and black shoes. He is holding a black and white photo of a woman in front of a white background. She is wearing a white shirt, black pants, and black shoes."
+  },
+  {
+    "image": "validation/images/0683.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building with steps on the left and a fence on the right. A bicycle is parked near the fence. The path is clear for next 10 meters.",
+    "prediction": "Foto Produk Lampu Pembuat Lampu Pembuat Lampu Pembuat Lampu Pembuat Lampu Pembuat Lampu Pembuat Lampu Pembuat Lampu Pembuat Lampu Pembuat Lampu Pembuat Lampu Pembuat Lampu Pembuat Lampu Pembuat Lampu Pembuat Lampu Pembuat Lampu Pembuat Lampu Pembuat Lampu Pem."
+  },
+  {
+    "image": "validation/images/0687.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a grassy area with a tree on the left side. A bicycle is parked against a pole 5 meters ahead on the left. The path is clear for next 10 meters.",
+    "prediction": "Schlafzimmer Design Ideen -."
+  },
+  {
+    "image": "validation/images/0688.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a road on the right. A small step with a metal railing leads into a store entrance approximately 3 meters ahead. The path is clear for navigation.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/0689.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building with a staircase on the right side. A row of bicycles is parked against the wall on the right, 5 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Staveley-on-Tees, UK: The view from the top of Staveley-on-Tees."
+  },
+  {
+    "image": "validation/images/0690.jpg",
+    "target": "The sidewalk is centered in the view, leading to a staircase with a metal railing on the right side. A bicycle is parked near the stairs. The path is clear for next 10 meters.",
+    "prediction": "Staveley, Derbyshire, United Kingdom - August 18, 2018: A view of the exterior of the Staveley Golf Club. The club is a 9-hole golf course."
+  },
+  {
+    "image": "validation/images/0695.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a metal railing on the left side. A staircase with a metal railing descends into a lower area 5 meters ahead. The path is clear for navigation.",
+    "prediction": "Samsung Galaxy S6 Edge Plus (SM-G928A) 32GB Unlocked GSM 4G LTE Android Smartphone (Certified Refurbished) (Certified Refurbished)."
+  },
+  {
+    "image": "validation/images/0727.jpg",
+    "target": "The sidewalk is centered in the view, leading into a tunnel with a bright exit at the end. A wall on the left and a road on the right border the path. The path is clear for next 10 meters.",
+    "prediction": "sunday-afternoon-in-the-city-of-london-with-the-london-symphony-orchestra-and-the-london-symphony-orchestra-in-concert-at-the-royal-albert-hall-in-london-uk-on-april-12-2019-1."
+  },
+  {
+    "image": "validation/images/0734.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building with a blue door on the left and a parked car on the right. A bicycle is parked against the wall on the right side, 5 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Street view of a building with a sign that reads: 'Museum of Modern Art'. The sign is in the shape of a building, with the word 'Museum of Modern Art' written on it. The building has a large glass window on the side of the building. The building has a large glass window on the side of the building. The sign is in the shape of a building, with the word 'Museum of Modern Art' written on it. The sign is in the shape of a building, with the word 'Museum of Modern Art' written on it. The building has a large glass window on the side."
+  },
+  {
+    "image": "validation/images/0740.jpg",
+    "target": "The sidewalk is centered in the view, leading to a building entrance with a covered walkway. A white pipe is positioned on the left side, 3 meters ahead. The path is clear for navigation.",
+    "prediction": "Grass Valley, CA - This is a photo of a group of people standing in front of a sign that says 'Grass Valley, CA' on it. The sign is in the shape of a heart and has the words 'Grass Valley, CA' on it. Grass Valley, CA is a city in San Bernardino County, California, United States. As of the 2010 census, the city had a total population of 20,983. It is the county seat of San Bernardino County. The city is located in the foothills of the San Bernardino Mountains, about 30 miles (48 km) east of."
+  },
+  {
+    "image": "validation/images/0764.jpg",
+    "target": "The sidewalk is centered in the view, bordered by bushes on the left and a road on the right. A large yellow concrete barrier with metal poles stands approximately 2 meters ahead, partially obstructing the path. The sidewalk appears clear for navigation.",
+    "prediction": "Yellowstone National Park, Wyoming, USA. Photo taken by the author."
+  },
+  {
+    "image": "validation/images/0776.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a construction site with barriers and a red truck parked ahead. A traffic light pole stands on the left side, 5 meters away. The path is clear for next 10 meters.",
+    "prediction": "Construction of a new building for the Department of Geology and Geophysics of the University of Groningen. The building is located on the campus of the University of Groningen. The building is located on the campus of the University of Groningen. The building is located on the campus of the University of Groningen. The building is located on the campus of the University of Groningen. The building is located on the campus of the University of Groningen. The building is located on the campus of the University of Groningen. The building is located on the campus of the University of Groningen."
+  },
+  {
+    "image": "validation/images/0777.jpg",
+    "target": "The sidewalk is centered in the view, with a pedestrian area on the left and a building on the right. A few pedestrians are walking along the path. The path is clear for next 10 meters.",
+    "prediction": "Street view of a building with a sign that reads: 'Museum of Modern Art'. The sign is in the shape of a building, with the words 'Museum of Modern Art' written on it. The building is in the shape of a building, with the words 'Museum of Modern Art' written on it. The building is in the shape of a building, with the words 'Museum of Modern Art' written on it. The building is in the shape of a building, with the words 'Museum of Modern Art' written on it. The building is in the shape of a building, with the words '."
+  },
+  {
+    "image": "validation/images/0786.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a glass building with large windows on the left side. A red traffic cone stands approximately 10 meters ahead on the right side of the sidewalk. The path is clear for navigation.",
+    "prediction": "Photo of the front of a black and white photo of a man standing in front of a white background. He is wearing a white shirt, black pants, and black shoes. He is holding a black and white photo of a woman in front of a white background. She is wearing a white shirt, black pants, and black shoes. She is holding a black and white photo of a man in front of a white background. He is wearing a white shirt, black pants, and black shoes. She is holding a black and white photo of a woman in front of a white background. She is wearing a white shirt, black pants, and."
+  },
+  {
+    "image": "validation/images/0792.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a glass building on the left and a road on the right. The path is clear for next 10 meters.",
+    "prediction": "Miniature Dollhouse Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Dollhouse Miniature Furniture - Doll."
+  },
+  {
+    "image": "validation/images/0795.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a glass building on the right and a bike lane on the left. The path is clear for next 10 meters.",
+    "prediction": "View a Larger Image of T-Shirt, Long-Sleeved, 100% Polyester, White, Sizes S-3XL."
+  },
+  {
+    "image": "validation/images/0819.jpg",
+    "target": "The sidewalk is centered in the view, leading to a set of stairs with a metal ramp embedded in the steps. The ramp is positioned at the bottom of the stairs, providing accessibility. The area appears clear for navigation.",
+    "prediction": "Stainless Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel 316L Surgical Steel."
+  },
+  {
+    "image": "validation/images/0825.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building with steps leading into an entrance on the right. A row of bollards with a chain runs along the left side, partially obstructing the path. The path is clear for navigation.",
+    "prediction": "Photo of the front side of a black and white photo of a man standing in front of a white background. He is wearing a white shirt, black pants, and black shoes. He is holding a black and white photo of a woman in front of a white background. She is wearing a white shirt, black pants, and black shoes. She is holding a black and white photo of a man in front of a white background. He is wearing a white shirt, black pants, and black shoes. She is holding a black and white photo of a woman in front of a white background. She is wearing a white shirt, black pants,."
+  },
+  {
+    "image": "validation/images/0837.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bike lane on the left and a building entrance on the right. A pole stands approximately 2 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "Parking space for sale in the center of the city."
+  },
+  {
+    "image": "validation/images/0868.jpg",
+    "target": "The sidewalk is on the left side of the view, bordered by a red bike lane on the right. A pedestrian crossing is visible 10 meters ahead, with a traffic light showing red. The path is clear for next 10 meters.",
+    "prediction": "Redesigning the New York Times logo."
+  },
+  {
+    "image": "validation/images/0869.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a red bike lane on the right and a metal fence on the left. A traffic light pole stands approximately 10 meters ahead, showing a green signal. The path is clear for next 10 meters.",
+    "prediction": "Redesign of the logo of the company. The logo of the company was redesigned. The logo of the company was redesigned. The logo of the company was redesigned. The logo of the company was redesigned. The logo of the company was redesigned. The logo of the company was redesigned. The logo of the company was redesigned. The logo of the company was redesigned. The logo of the company was redesigned. The logo of the company was redesigned. The logo of the company was redesigned. The logo of the company was redesigned. The logo of the company was redesigned. The."
+  },
+  {
+    "image": "validation/images/0875.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a red bike lane on the left and a building on the right. The path is clear for next 10 meters.",
+    "prediction": "Redesign of the logo of the National Museum of the Republic of Kazakhstan. The logo of the National Museum of the Republic of Kazakhstan. The logo of the National Museum of the Republic of Kazakhstan. The logo of the National Museum of the Republic of Kazakhstan. The logo of the National Museum of the Republic of Kazakhstan. The logo of the National Museum of the Republic of Kazakhstan. The logo of the National Museum of the Republic of Kazakhstan. The logo of the National Museum of the Republic of Kazakhstan. The logo of the National Museum of the Republic of Kazakhstan. The logo of the National Museum of."
+  },
+  {
+    "image": "validation/images/0893.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a tree on the right. A metal bike rack with several bicycles is positioned 3 meters ahead, partially obstructing the path. The path remains clear for navigation.",
+    "prediction": "Brighton & Hove Albion v Crystal Palace - Premier League Preview."
+  },
+  {
+    "image": "validation/images/0900.jpg",
+    "target": "The sidewalk is centered in the view, bordered by parked cars on the right and a building with steps on the left. The path is clear for next 10 meters.",
+    "prediction": "Ford Fiesta 1.0 EcoBoost 125PS Titanium 5Dr Manual [Start Stop]."
+  },
+  {
+    "image": "validation/images/0901.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a glass building on the left and a road on the right. A bollard stands approximately 3 meters ahead on the right side, partially obstructing the path. The path appears clear for navigation.",
+    "prediction": "Photo of the front view of a black and white photo of a man standing in front of a white wall with a black and white photo of a man standing in front of a white wall with a black and white photo of a man standing in front of a white wall with a black and white photo of a man standing in front of a white wall with a black and white photo of a man standing in front of a white wall with a black and white photo of a man standing in front of a white wall with a black and white photo of a man standing in front of a white wall with a black and white photo of a man standing in."
+  },
+  {
+    "image": "validation/images/0903.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a road on the right. A row of motorcycles is parked against the wall 5 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "Nightmare Before Christmas - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington - Jack Skellington."
+  },
+  {
+    "image": "validation/images/0916.jpg",
+    "target": "The sidewalk is on the left side of the view, bordered by a metal railing with a bike lane on the right. A car is parked under the bridge, partially obstructing the path. The path is clear for next 10 meters.",
+    "prediction": "Florence Nightingale: The Lady with the Lamp."
+  },
+  {
+    "image": "validation/images/0935.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a building on the right. A bollard stands approximately 2 meters ahead, partially obstructing the path. The path is clear for navigation.",
+    "prediction": "Stainless Steel Kitchen Sink : Stainless steel kitchen sink stainless steel kitchen sink suppliers and. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel kitchen sink. Stainless steel kitchen sink stainless steel."
+  },
+  {
+    "image": "validation/images/0963.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bike lane on the left and a road on the right. The path is clear for next 10 meters.",
+    "prediction": "Pictures Of The Week: The Week In Pictures."
+  },
+  {
+    "image": "validation/images/0969.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a wooden railing on the left and dense greenery on the right. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/0992.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road with parked cars on the left and a building on the right. The path is clear for next 10 meters.",
+    "prediction": "A picture of a man in a suit and a woman in a dress standing in front of a white wall. The man is wearing a black suit and the woman is wearing a white dress. They are both looking at the camera and smiling. The man is wearing a black suit and the woman is wearing a white dress. They are both looking at the camera and smiling. The man is wearing a black suit and the woman is wearing a white dress. They are both looking at the camera and smiling. The man is wearing a black suit and the woman is wearing a white dress. They are both looking at the camera and smiling. The man."
+  },
+  {
+    "image": "validation/images/0AZiFqSRZ_2Xn1JfaZmcqw.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a busy street with cars and pedestrians on the left. A fire hydrant stands 2 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "New York City, New York, United States of America, North America - September 18, 2018: A view of the New York City skyline from the top of the Empire State Building. The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City, United States. It is the world's tallest skyscraper and the third-tallest free-standing structure in the world, after the Burj Khalifa in Dubai and the Willis Tower in Chicago. The Empire State Building is owned by the Port Authority of New York and New Jersey, and is managed by."
+  },
+  {
+    "image": "validation/images/0XMa8LJMOIF914PZXxEo9A.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and parked cars on the left. A large metal pipe protrudes from the wall on the right, partially obstructing the path. The path is clear for navigation.",
+    "prediction": "Photo of the front side of a black and white photo of a man in a white shirt and black pants standing in front of a white wall. He is wearing a black hat and is holding a black and white photo of a man in a white shirt and black pants standing in front of a white wall. He is wearing a black hat and is holding a black and white photo of a man in a white shirt and black pants standing in front of a white wall. He is wearing a black hat and is holding a black and white photo of a man in a white shirt and black pants standing in front of a white wall. He is wearing."
+  },
+  {
+    "image": "validation/images/1003.jpg",
+    "target": "The sidewalk is centered in the view, with a building on the left and a road on the right. A small embedded plaque is embedded in the pavement 2 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt with a white logo on the front. The t-shirt has a black collar and sleeves. The t-shirt has a white logo on the front. The t-shirt has a black collar and sleeves."
+  },
+  {
+    "image": "validation/images/1014.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a wall on the right and a staircase with a bicycle parked against the wall on the left. The path is clear for next 10 meters.",
+    "prediction": "Brighton and Hove Albion v Crystal Palace - Premier League - The Amex Stadium - Brighton, East Sussex, UK - Saturday, October 6, 2018. Crystal Palace's James Tomkins (left) and Brighton's Lewis Dunk battle for the ball during the Premier League match between."
+  },
+  {
+    "image": "validation/images/1016.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and parked cars on the right. A green e-scooter is parked directly ahead, 2 meters away, partially obstructing the path.",
+    "prediction": "Scarborough, Ontario, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada, Canada,."
+  },
+  {
+    "image": "validation/images/1026.jpg",
+    "target": "The sidewalk is centered in the view, with a building on the left and a construction site on the right. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/1029.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a red bike lane on the left and a road on the right. A pole stands approximately 5 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "Brighton and Hove Albion F.C. Homepage. This."
+  },
+  {
+    "image": "validation/images/1032.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a car on the right. The path is clear for next 10 meters.",
+    "prediction": "Mercedes-Benz C-Class Coupe (W205) 2011-2016 -."
+  },
+  {
+    "image": "validation/images/1045.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a wall on the left and a road on the right. A utility box stands approximately 3 meters ahead on the left side, partially obstructing the path. The path appears clear for navigation.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/1058.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a wall on the right and hedges on the left. A bicycle is parked against the wall on the right side, 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Berlin, Germany - May 25, 2017: A view of the Berlin Wall. The Berlin Wall was a barrier that divided Berlin into two parts from 1961 to 1989. It was built by the East German government to prevent the spread of communism in the GDR. The Berlin Wall was a barrier that divided Berlin into two parts from 1961 to 1989. It was built by the East German government to prevent the spread of communism in the GDR. The Berlin Wall was a barrier that divided Berlin into two parts from 1961 to 1989. It was built by the East German government to prevent the spread of communism in the GDR. The Berlin Wall."
+  },
+  {
+    "image": "validation/images/1066.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a tram on the right side. A pole stands immediately ahead, 2 meters away, partially obstructing the path. Further along, pedestrians are visible. The path is mostly clear for navigation.",
+    "prediction": "Photo of the front and back of a black and white photo of a person standing in front of a white background. The person is wearing a white shirt and is holding a black and white photo of a person standing in front of a white background. The person is wearing a white shirt and is holding a black and white photo of a person standing in front of a white background. The person is wearing a white shirt and is holding a black and white photo of a person standing in front of a white background. The person is wearing a white shirt and is holding a black and white photo of a person standing in front of a white background. The."
+  },
+  {
+    "image": "validation/images/1313.jpg",
+    "target": "The sidewalk is centered in the view, leading to a bridge with blue railings on both sides. The path is clear for next 10 meters.",
+    "prediction": "Bridgeport, CT - The Bridgeport Symphony Orchestra (BSO) will present the world premiere of a new work for orchestra and chorus by American composer and pianist John Adams (b. 1950) at 7:30 p.m. on Saturday, April 27, at the Bridgeport Symphony Hall, located at 100 East Main Street in Bridgeport. The work, titled “The Bridge,” is a new work for orchestra and chorus by American composer and pianist John Adams (b. 1950). The Bridgeport Symphony Orchestra (BSO) will present the world premiere of a new work for orchestra and chorus by American composer and pianist."
+  },
+  {
+    "image": "validation/images/1321.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a glass-walled building on the right and a covered walkway on the left. The path is clear for next 10 meters.",
+    "prediction": "Berlin, Germany - May 25, 2017: A view of the Berlin Wall. The Berlin Wall was a barrier that divided Berlin into two parts from 1961 to 1989. It was built by the East German government to prevent the spread of communism in the GDR. The Berlin Wall was a barrier that divided Berlin into two parts from 1961 to 1989. It was built by the East German government to prevent the spread of communism in the GDR. The Berlin Wall was a barrier that divided Berlin into two parts from 1961 to 1989. It was built by the East German government to prevent the spread of communism in the GDR. The Berlin Wall."
+  },
+  {
+    "image": "validation/images/1332.jpg",
+    "target": "The sidewalk is centered in the view, running through a long, narrow tunnel with white walls. The path is clear for next 10 meters.",
+    "prediction": "Understanding the Basics of CNC Machining: A Beginner's Guide to CNC Machining."
+  },
+  {
+    "image": "validation/images/1353.jpg",
+    "target": "The sidewalk is centered in the view, leading to a pedestrian crossing with a yellow tactile strip. A bus stop sign stands approximately 3 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "Parking Lot Signs, Parking Lot Signs Suppliers and Manufacturers at Alibaba.com."
+  },
+  {
+    "image": "validation/images/1357.jpg",
+    "target": "The sidewalk is centered in the view, leading towards a pedestrian crossing with traffic lights. A pole stands directly ahead 5 meters away, partially obstructing the path. The sidewalk continues straight after the crossing.",
+    "prediction": "Crossing the Line: A Review of The Last of the Mohicans by James Fenimore Cooper."
+  },
+  {
+    "image": "validation/images/1366.jpg",
+    "target": "The sidewalk is on the left side of the view, bordered by a road on the right. A large pole stands directly ahead, partially obstructing the path. A pedestrian crossing signal is visible further ahead.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/1377.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a metal railing on the right side and a large truck on the left. A construction warning sign stands approximately 2 meters ahead, partially obstructing the path. The path appears clear for navigation.",
+    "prediction": "Trailblazers of the Future: The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female! The Future is Female."
+  },
+  {
+    "image": "validation/images/1387.jpg",
+    "target": "The sidewalk is centered in the view, bordered by stone walls on both sides. A wet surface with puddles may cause slippery conditions. The path is clear for next 10 meters.",
+    "prediction": "Black and white photo of a man standing in front of a white wall. He is wearing a white shirt, black pants, and black shoes. He is holding a black and white photo of a man standing in front of a white wall. He is wearing a white shirt, black pants, and black shoes. He is holding a black and white photo of a man standing in front of a white wall. He is wearing a white shirt, black pants, and black shoes. He is holding a black and white photo of a man standing in front of a white wall. He is wearing a white shirt, black pants, and black shoes."
+  },
+  {
+    "image": "validation/images/1401.jpg",
+    "target": "The sidewalk is centered in the view, bordered by outdoor seating with tables and chairs on both sides. A large umbrella stands directly ahead, partially obstructing the path. The path is clear for navigation.",
+    "prediction": "Celebrating the launch of our new website! We are delighted to announce the launch of our brand new website. We have worked hard over the last few months to create a website that is easy to navigate, easy to read and easy to use. We hope that you will find it a useful resource for all of the information that you need to know about us and our services. If you have any questions or comments, please do not hesitate to contact us. We look forward to hearing from you."
+  },
+  {
+    "image": "validation/images/1405.jpg",
+    "target": "The sidewalk is centered in the view, leading to a circular plaza with a large abstract sculpture in the middle. A circular brick border surrounds the plaza, and a signpost stands near the edge. The path is clear for next 10 meters.",
+    "prediction": "Snow White and the Huntsman (2012) - Movie Poster."
+  },
+  {
+    "image": "validation/images/1415.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road with a large truck parked on the left side. A metal pole stands directly ahead, partially obstructing the path. The sidewalk continues straight ahead after the pole.",
+    "prediction": "Toyota Land Cruiser Prado 120 Series 2.0 D-4D 4WD 2.4L Petrol (2013 - ) - Click Image to Close."
+  },
+  {
+    "image": "validation/images/1434.jpg",
+    "target": "The sidewalk is centered under a bridge, with a railing on the left side and a path leading straight ahead. The path is clear for next 10 meters.",
+    "prediction": "Footer image for the 'Celebration of Life' page."
+  },
+  {
+    "image": "validation/images/1447.jpg",
+    "target": "The sidewalk is centered in the view, with a construction site partially blocking the path. A traffic light pole stands 5 meters ahead, showing a red signal. A car is parked on the left side, 10 meters away. The sidewalk is partially blocked by construction barriers.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/1Ev_2zy8Xq9XpINS8fWcbA.jpg",
+    "target": "The pedestrian crossing is centered in the view, with a zebra-striped walkway leading to a bus stop area. A pole stands on the right side, 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Road Trip to the Big Apple: New York City, New York, United States of America (USA)."
+  },
+  {
+    "image": "validation/images/1aXG1Nqdsck9EJy7cOrTJA.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a covered walkway on the right and a road with a bus on the left. A traffic light pole stands approximately 10 meters ahead, indicating a pedestrian crossing. The path is clear for navigation.",
+    "prediction": "Los Angeles, California, USA - August 10, 2018: A view of the exterior of the Los Angeles County Museum of Art (LACMA) in."
+  },
+  {
+    "image": "validation/images/1fhI-qv6dVR-1Kc8Oafb3Q.jpg",
+    "target": "The sidewalk is centered in the view, bordered by trees on both sides. A fountain with water spraying from the middle of a square area is positioned on the right side, approximately 5 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/1go5SJFUQKZtWnyJ_MwgAQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building with large windows on the left and a tree-lined street on the right. A pedestrian is walking ahead, 5 meters away. The path is clear for next 10 meters.",
+    "prediction": "A photo of a woman standing in front of a wall of books. The woman is wearing a white shirt, black pants, and black shoes. She is holding a book in her right hand. The woman is standing in front of a wall of books. The woman is wearing a white shirt, black pants, and black shoes. She is standing in front of a wall of books. The woman is wearing a white shirt, black pants, and black shoes. She is standing in front of a wall of books. The woman is wearing a white shirt, black pants, and black shoes. She is standing in front of a wall of books."
+  },
+  {
+    "image": "validation/images/2T2reH82rbd0z8gtmBekzg.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a road on the right. A pedestrian crossing sign is mounted on a pole 3 meters ahead, indicating a zebra crossing. The path is clear for next 10 meters.",
+    "prediction": "Street view of a building with a sign that reads: 'Museum of the History of Polish Jews' in Warsaw, Poland. The museum is located in the former Jewish ghetto. The ghetto was established by the Nazis during World War II. The ghetto was established by the Nazis during World War II. The ghetto was established by the Nazis during World War II. The ghetto was established by the Nazis during World War II. The ghetto was established by the Nazis during World War II. The ghetto was established by the Nazis during World War II. The ghetto was established by the Nazis during World War II."
+  },
+  {
+    "image": "validation/images/3QeZrnYpMqXofZPZPAji6A.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a road on the right. A parked car is positioned on the right side, 5 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Brighton and Hove Albion v Crystal Palace - Premier League - The Amex Stadium, Brighton and Hove, East Sussex, England - 12th February 2020 - Crystal Palace's James Tomkins (left) and Brighton and Hove Albion's Nathan Ake (right) during the match. Picture date: Sunday February 12, 2020. Picture credit should read: Simon Parker/Alamy Live News."
+  },
+  {
+    "image": "validation/images/3iccLjJIeZ8DQj6JyBYISg.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road on the left. A tree with a small planter stands approximately 3 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "Toronto, Canada - May 14, 2018: A view of the exterior of the Toronto Zoo. The Toronto Zoo is a zoo located in Toronto, Ontario, Canada. It is the largest zoo in Canada and the second largest in North America. The zoo is located on the shores of Lake Ontario, and is part of the University of Toronto. The Toronto Zoo was founded in 1877 by the Zoological Society of Toronto. It is the second oldest zoo in North America, after the Bronx Zoo in New York City. The Toronto Zoo is a member of the Association of Zoos and Aquariums (AZA). The Toronto Zoo is."
+  },
+  {
+    "image": "validation/images/4dKBY8RedP96H3NeE3UiPw.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a stone wall on the left and a road on the right. A pedestrian crossing sign stands approximately 5 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Samsung Galaxy S6 Edge Plus 32GB Unlocked GSM 4G LTE Android Smartphone (Certified Refurbished) (Certified Refurbished)."
+  },
+  {
+    "image": "validation/images/4poBDlA_HvslN7BF-aFyLQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road on the left. A pole stands approximately 3 meters ahead on the right side of the sidewalk. The path is clear for next 10 meters.",
+    "prediction": "Street view of a building with a sign that reads: 'Museum of the History of Polish Jews' in Warsaw, Poland. The museum is located in the former Jewish ghetto. The ghetto was established by the Nazis during World War II. The ghetto was established by the Nazis during World War II. The ghetto was established by the Nazis during World War II. The ghetto was established by the Nazis during World War II. The ghetto was established by the Nazis during World War II. The ghetto was established by the Nazis during World War II. The ghetto was established by the Nazis during World War II."
+  },
+  {
+    "image": "validation/images/6RkStMlOcq9NI_4_5kroIA.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the right and a wall on the left. A pole with a traffic signal stands approximately 3 meters ahead, partially obstructing the path. The sidewalk appears clear for navigation.",
+    "prediction": "A picture of a man in a white shirt and black pants standing in front of a white background. He is wearing a black baseball cap and is holding a white microphone in his right hand. He is facing the camera and looking at the camera."
+  },
+  {
+    "image": "validation/images/8zcfqXT8qYswmxrEOuG7lQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a green trash bin wall on the right. The path is clear for next 10 meters.",
+    "prediction": "Garage Door Opener Repair Service in San Diego, CA | Garage Door Repair San Diego."
+  },
+  {
+    "image": "validation/images/BCHaen3SPoiVYoCyLin0GQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by grassy areas on both sides. A cyclist is riding towards you 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Chicago Cubs vs. Milwaukee Brewers at Wrigley Field -."
+  },
+  {
+    "image": "validation/images/BxB3RuaUCvV_IfoZgPVgJA.jpg",
+    "target": "The sidewalk is centered in the view, bordered by parked cars on the left and pedestrians walking ahead. A fire hydrant stands near the curb 5 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Toronto, Canada - May 14, 2018: A view of the exterior of the Toronto Zoo. The Toronto Zoo is a zoo located in Toronto, Ontario, Canada. It is the largest zoo in Canada and the second largest in North America. The zoo is located on the shores of Lake Ontario, and is part of the University of Toronto. The Toronto Zoo was founded in 1877 by the Zoological Society of Toronto. It is the second oldest zoo in North America, after the Bronx Zoo in New York City. The Toronto Zoo is a member of the Association of Zoos and Aquariums (AZA). The Toronto Zoo is."
+  },
+  {
+    "image": "validation/images/Bz0UoQVsAARcaQCKBUVroA.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road with a zebra crossing on the right. A trash bin stands 2 meters ahead on the left, partially obstructing the path. A cyclist is riding across the road approximately 10 meters ahead. The path is clear for navigation.",
+    "prediction": "New York City, New York, United States of America, North America - September 18, 2018: A view of the New York City skyline from the top of the Empire State Building. The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City, United States. It is the world's tallest skyscraper and the third-tallest free-standing structure in the world, after the Burj Khalifa in Dubai and the Willis Tower in Chicago. The Empire State Building is owned by the Port Authority of New York and New Jersey, and is managed by."
+  },
+  {
+    "image": "validation/images/CgYSUcp3HKzNON0Y0Hl8CQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a road on the right. A pedestrian is walking ahead, 5 meters away. The path is clear for next 10 meters.",
+    "prediction": "A photo of a woman standing in front of a wall with a sign that reads: 'A woman's place is in the kitchen.'."
+  },
+  {
+    "image": "validation/images/CzSyjI5mjGUQvY-Pl85Yrw.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a grassy area with a large palm tree on the left and a road on the right. A pedestrian is walking along the path 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Street view of a building with a sign that reads: 'Museum of the History of Polish Jews' in Warsaw, Poland. The museum is located in a building that was once a synagogue."
+  },
+  {
+    "image": "validation/images/EU11bJwsxHZKYQCmTCBq_Q.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a grassy area on the left and a road on the right. A lamppost stands approximately 5 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "Photo of the front view of a woman's hand holding a black and white photo of a woman in a white dress standing in front of a white background. She is wearing a black hat and is holding a black and white photo of a woman in a white dress standing in front of a white background. She is wearing a black hat and is holding a black and white photo of a woman in a white dress standing in front of a white background. She is wearing a black hat and is holding a black and white photo of a woman in a white dress standing in front of a white background. She is wearing a black hat and is holding a."
+  },
+  {
+    "image": "validation/images/EWNEpQQEClE5Q_BIDpt1mg.jpg",
+    "target": "The narrow cobblestone street is centered, bordered by a building with large windows on the left and parked cars on the right. A pole stands approximately 5 meters ahead, partially obstructing the path. The path is clear for navigation.",
+    "prediction": "A photo of a woman in a white shirt and black pants standing in front of a white wall. She is wearing a black headband and is holding a black and white photo of a woman in a white shirt and black pants standing in front of a white wall. She is wearing a black headband and is holding a black and white photo of a woman in a white shirt and black pants standing in front of a white wall. She is wearing a black headband and is holding a black and white photo of a woman in a white shirt and black pants standing in front of a white wall. She is wearing a black headband and is."
+  },
+  {
+    "image": "validation/images/EtN8fluv8FEpEMz9FAJ0jQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a药房 on the left. A lamppost stands approximately 3 meters ahead on the left side. The path is clear for navigation.",
+    "prediction": "Brilliant Ideas For Decorating Your Home With Vintage Furniture."
+  },
+  {
+    "image": "validation/images/F41xt2q0tteuxwLG9WflbQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a wall with graffiti on the right and parked cars on the left. A utility cover is embedded in the sidewalk 3 meters ahead. The path is narrow but clear for navigation.",
+    "prediction": "A photo of a person standing in front of a wall with a sign that reads: 'Welcome to the home of the world's largest collection of rare books and manuscripts'."
+  },
+  {
+    "image": "validation/images/FuUJOAAPeST0oNT0jbadOA.jpg",
+    "target": "The sidewalk is centered in the view, leading towards a pedestrian crossing marked with white lines. A tree stands on the left 5 meters ahead, partially obstructing the path. On the right side, a road runs parallel to the sidewalk. The path is clear for navigation.",
+    "prediction": "Samsung Galaxy S6 Edge Plus (SM-G928A) 32GB Unlocked GSM 4G LTE Android Smartphone (Certified Refurbished) (Certified Refurbished)."
+  },
+  {
+    "image": "validation/images/GJQAV2MN9ptVev_zt_zdIw.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a metal railing on the right and a tree-lined path on the left. A red traffic light stands approximately 5 meters ahead, indicating a pedestrian crossing. The path is clear for navigation.",
+    "prediction": "View full screen - View 1 of Lot 7. SOLD BY THE AUCTIONEER. SOLD BY THE AUCTIONEER. SOLD BY THE AUCTIONEER. SOLD BY THE AUCTIONEER. SOLD BY THE AUCTIONEER. SOLD BY THE AUCTIONEER. SOLD BY THE AUCTIONEER. SOLD BY THE AUCTIONEER. SOLD BY THE AUCTIONEER. SOLD BY THE AUCTIONEER. SOLD BY THE AUCTIONEER. SOLD BY THE AUCTIONE."
+  },
+  {
+    "image": "validation/images/HRbQIgfLbDC9_2tE5lxx-w.jpg",
+    "target": "The sidewalk is centered in the view, bordered by parked cars on the left and a building on the right. A scooter is parked against the wall on the right side, 5 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Photo of the front view of a black and white photo of a woman standing in front of a white background. She is wearing a black and white striped shirt, a black and white striped skirt, and a black and white striped sweater. She is holding a black and white striped purse. She is standing in front of a white background. She is wearing a black and white striped shirt, a black and white striped skirt, and a black and white striped sweater. She is standing in front of a white background. She is wearing a black and white striped shirt, a black and white striped skirt,."
+  },
+  {
+    "image": "validation/images/IUYb1Be_VJAdzwTSnkEc0Q.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road with vehicles on both sides. A pole stands immediately ahead, partially obstructing the path. Further ahead, pedestrians are crossing the road. The path is clear for navigation.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/IgTTIh2WSrW6tcf1zfRfNQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road with parked cars on the right side. A row of bollards runs along the edge of the sidewalk, approximately 2 meters ahead. On the left side, there are trees and a building. The path is clear for navigation.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/J1hDNZgAgjoSpaXuvHnorw.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a tall building wall on the left and a busy pedestrian area on the right. A bus stop shelter stands on the right side, approximately 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Samsung Galaxy S6 Edge Plus 32GB (SM-G928A) - Black - Unlocked - GSM - Smartphone (Unlocked)."
+  },
+  {
+    "image": "validation/images/JDXIig2wviOQc2W02NUSSA.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building with graffiti on the right and parked cars on the left. The path is clear for next 10 meters.",
+    "prediction": "Rustic Wooden Furniture, Rustic Wooden Furniture Suppliers And Manufacturers At Alibaba.com."
+  },
+  {
+    "image": "validation/images/KDKXzk_2m02wF8RoZU62Ng.jpg",
+    "target": "The sidewalk is centered in the view, leading towards a pedestrian crossing marked with yellow lines. A fire hydrant stands 3 meters ahead on the right side of the sidewalk. The path is clear for next 10 meters.",
+    "prediction": "Photo of the front of a black and white photo of a man standing in front of a white wall. He is wearing a white shirt, black pants, and black shoes. He is holding a black and white photo of a woman in front of a white wall. She is wearing a white shirt, black pants, and black shoes. She is holding a black and white photo of a man in front of a white wall. He is wearing a white shirt, black pants, and black shoes. She is holding a black and white photo of a woman in front of a white wall. She is wearing a white shirt, black pants, and."
+  },
+  {
+    "image": "validation/images/KjLF2tl4oD5wdk5hoq6eHA.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a snow-covered wall on the right and a road with a parked car on the left. The path is clear for next 10 meters.",
+    "prediction": "Samsung Galaxy S6 Edge Plus (SM-G928A) 32GB Unlocked GSM 4G LTE Android Smartphone (Certified Refurbished) (Certified Refurbished)."
+  },
+  {
+    "image": "validation/images/KqKC0RWMHoXXhlfazAg1DA.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a garden with flowers on the right. A few pedestrians are walking ahead, approximately 5 meters away. The path is clear for navigation.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/M7if-uJPPMV_-cI8nyoJyg.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a road on the right. A pole stands approximately 2 meters ahead on the right side, partially obstructing the path. The path appears mostly clear for navigation.",
+    "prediction": "London 2012 Olympic Torch Relay -."
+  },
+  {
+    "image": "validation/images/NQe-Pp-J-rvY9WUC9kcU6A.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a hedge on the left and a road with traffic lights on the right. A trash bin stands 3 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "View full screen - View 1 of Lot 7. A COLLECTION OF FINE 19TH CENTURY LITHOGRAPHS. A COLLECTION OF FINE 19TH CENTURY LITHOGRAPHS. A COLLECTION OF FINE 19TH CENTURY LITHOGRAPHS. A COLLECTION OF FINE 19TH CENTURY LITHOGRAPHS. A COLLECTION OF FINE 19TH CENTURY LITHOGRAPHS. A COLLECTION OF FINE 19TH CENTURY LITHOGRAP."
+  },
+  {
+    "image": "validation/images/P7Tm5Icq6GqVO1QRhzR76g.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a cobblestone area on the left and a red bike lane on the right. A pole stands approximately 5 meters ahead on the left side, partially obstructing the path. The path appears clear for navigation.",
+    "prediction": "Berkshire Hathaway HomeServices California Properties, Inc."
+  },
+  {
+    "image": "validation/images/PE900Ulo-GSX45e3fKaTUA.jpg",
+    "target": "The sidewalk is centered in the view, with a pedestrian crossing sign 3 meters ahead. A large pothole partially blocks the path 2 meters ahead. On the left side, two pedestrians walk along the sidewalk. The path is mostly clear, but caution is required due to the uneven surface.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. There is a black and white photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes."
+  },
+  {
+    "image": "validation/images/QnWlOHdrCkZfqGppZHVvUw.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bus stop shelter on the right and a road with moving vehicles on the left. A pole stands approximately 3 meters ahead, partially obstructing the path. The path is clear for navigation.",
+    "prediction": "A picture of a woman standing in front of a wall with a sign that reads: 'Welcome to the home of the world's largest collection of rare books and manuscripts'. The woman is wearing a white shirt, black pants, and black shoes. She is standing in front of a wall with a sign that reads: 'Welcome to the home of the world's largest collection of rare books and manuscripts'. The woman is standing in front of a wall with a sign that reads: 'Welcome to the home of the world's largest collection of rare books and manuscripts'. The woman is standing in front of a wall with a sign that reads: '."
+  },
+  {
+    "image": "validation/images/R3KQOB0dvxxNh0xc3YIkvg.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a wall with graffiti on the right and trees on the left. The path is clear for next 10 meters.",
+    "prediction": "A photo of a woman standing in front of a wall with a sign that reads: 'Welcome to the home of the world's largest collection of rare books and manuscripts'. The woman is holding a book in her left hand and a pen in her right hand. She is standing in front of a wall with a sign that reads: 'Welcome to the home of the world's largest collection of rare books and manuscripts'. The woman is standing in front of a wall with a sign that reads: 'Welcome to the home of the world's largest collection of rare books and manuscripts'. The woman is standing in front of a wall with a sign that."
+  },
+  {
+    "image": "validation/images/RBbOPL3-tCfmN28TNj0_pQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by hedges on the left and a road on the right. A traffic sign pole stands approximately 3 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "Household Goods & Household Goods &."
+  },
+  {
+    "image": "validation/images/RHIVuouXKOAIQM4jHNF5AQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a busy pedestrian area with cyclists on the left and a large stone pillar on the right. A red traffic light stands approximately 5 meters ahead, indicating a pedestrian crossing. The path is clear for navigation.",
+    "prediction": "Brighton & Hove Albion F.C. Homepage. This."
+  },
+  {
+    "image": "validation/images/ROXgSM0NhAnPy_tvOC21Gw.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a metal railing on the left side. A large puddle partially blocks the path 5 meters ahead. The path is clear for navigation.",
+    "prediction": "Paris, France - September 10, 2017: A view of the Eiffel Tower in Paris, France. The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, who designed it in 1889 for the World's Fair."
+  },
+  {
+    "image": "validation/images/RPqXwp4W5j5dI2zTpcyzMw.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a metal railing on the right side and a road on the left. A pedestrian crossing is visible 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "A photo of a woman standing in front of a wall with a sign that reads: 'Welcome to the home of the world's largest collection of rare books and manuscripts.' The woman is wearing a white shirt, black pants, and black shoes. She is standing in front of a wall with a sign that reads: 'Welcome to the home of the world's largest collection of rare books and manuscripts.' The woman is standing in front of a wall with a sign that reads: 'Welcome to the home of the world's largest collection of rare books and manuscripts.' The woman is standing in front of a wall with a sign that reads: '."
+  },
+  {
+    "image": "validation/images/SNRem1V7Nmz9heSKdUsAcA.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road with pedestrians crossing on the left. A traffic light pole stands approximately 10 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "View larger image of T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt - T-Shirt."
+  },
+  {
+    "image": "validation/images/T76vMVuYnl0gZWIPQ6GSJw.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a grassy area with trees on both sides. A tree stands approximately 5 meters ahead, partially obstructing the path. The sidewalk continues straight after the tree.",
+    "prediction": "Tree-Free Living: How to Make Your Home More Eco-Friendly |."
+  },
+  {
+    "image": "validation/images/TRL6tuNSx7FxqQ50AcdW2Q.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road with cars on the left. A pedestrian crossing sign is visible 5 meters ahead, indicating a pedestrian crossing. The path is clear for next 10 meters.",
+    "prediction": "View larger image of Tactical Combat Knife (TCK) - Tactical Combat Knife (TCK) - Tactical Combat Knife (TCK) - Tactical Combat Knife (TCK) - Tactical Combat Knife (TCK) - Tactical Combat Knife (TCK) - Tactical Combat Knife (TCK) - Tactical Combat Knife (TCK) - Tactical Combat Knife (TCK) - Tactical Combat Knife (TCK) - Tactical Combat Knife (TCK) - Tactical."
+  },
+  {
+    "image": "validation/images/UXRa6BFVR0tKQantSNxvQw.jpg",
+    "target": "The sidewalk is centered in the view, with pedestrians walking ahead. A pedestrian crossing sign is mounted on the left side, 5 meters away. The path is clear for next 10 meters.",
+    "prediction": "View a Larger Image of Bicycle Rack, 2-Bike Capacity, 1-Bike Capacity, 1-Bike Capacity, 1-Bike Capacity, 1-Bike Capacity, 1-Bike Capacity, 1-Bike Capacity, 1-Bike Capacity, 1-Bike Capacity, 1-Bike Capacity, 1-Bike Capacity, 1-Bike Capacity, 1-Bike Capacity, 1-Bike Capacity, 1-Bike Capacity, 1-Bike Capacity, 1-Bike."
+  },
+  {
+    "image": "validation/images/V0qieSDM4Mfo0gPAYPolOg.jpg",
+    "target": "The sidewalk is centered in the view, with a road on the left and a fence on the right. A bus stop sign is positioned 5 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "Bildtitel Identify a Famous Person in a Photo Step 3."
+  },
+  {
+    "image": "validation/images/Wet0hFoJNgvfzU8U7iIBKg.jpg",
+    "target": "The sidewalk is centered in the view, bordered by buildings on both sides. A large utility box with graffiti stands immediately ahead, partially obstructing the path. A bollard is positioned 3 meters ahead on the left side. The path is clear for navigation.",
+    "prediction": "Luxury Home Decor: Luxury Home Decor:."
+  },
+  {
+    "image": "validation/images/Y71ptUzM62758L9Wqcx-pg.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a low wall on the right. A trash bin stands approximately 3 meters ahead on the right side. Pedestrians are walking further down the path. The path appears clear for navigation.",
+    "prediction": "Berkshire Hathaway HomeServices California Properties, Inc."
+  },
+  {
+    "image": "validation/images/Yci7rbfJN-DElp1DS8B60g.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building with a metal shutter on the left and a road on the right. A pedestrian crossing sign is visible 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "A photo of a woman in a white shirt and black pants standing in front of a white wall. She is wearing a black headband and is holding a black and white photo of a woman in a white shirt and black pants. She is looking at the camera."
+  },
+  {
+    "image": "validation/images/_zyWmZg0lfs_VV3eGc3fRQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road on the left. A large metal utility cover is embedded in the ground 2 meters ahead, partially obstructing the path. The path is clear for navigation.",
+    "prediction": "Pictures of Porsche 911 (991) Turbo (997) Turbo S (997.2) (997.4) (997.5) (997.6) (997.7) (997.8) (997.9) (997.10) (997.11) (997.12) (997.13) (997.14) (997.15) (997.16) (997.17) (997.18) (997.19) (997.20) (997.21) (997.22) (997.23) (997.24) (."
+  },
+  {
+    "image": "validation/images/bZTjf_OuCP_0wAACZUCqOw.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a tree on the right and a road on the left. A tram track runs along the middle of the sidewalk. The path is clear for next 10 meters.",
+    "prediction": "A photo of a woman in a white shirt and black pants standing in front of a white wall. She is wearing a black headband and is holding a black and white photo of a woman in a white shirt and black pants standing in front of a white wall. She is wearing a black headband and is holding a black and white photo of a woman in a white shirt and black pants standing in front of a white wall. She is wearing a black headband and is holding a black and white photo of a woman in a white shirt and black pants standing in front of a white wall. She is wearing a black headband and is."
+  },
+  {
+    "image": "validation/images/cIZXl17JFb0Ahrstxuc1YA.jpg",
+    "target": "The sidewalk is centered in the view, with a construction site partially blocking the path 5 meters ahead. A \"Works End\" sign stands near the edge of the construction area. On the left side, a row of outdoor seating with tables and chairs is present. The path is mostly clear, but caution is required due to the construction work.",
+    "prediction": "New York City, New York, United States of America, North America - September 18, 2018: A view of the New York City skyline from the top of the Empire State Building. The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City, United States. It is the world's tallest skyscraper and the third-tallest free-standing structure in the world, after the Burj Khalifa in Dubai and the Willis Tower in Chicago. The Empire State Building is owned by the Port Authority of New York and New Jersey, and is managed by."
+  },
+  {
+    "image": "validation/images/eM_w3fYJwrrmF4DNn4jhvg.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road on the left. A zebra crossing is visible 10 meters ahead, with a pedestrian signal showing a red light. The path is clear for next 10 meters.",
+    "prediction": "Photo of the front side of a black and white photo of a man standing in front of a white background. He is wearing a white shirt, black pants, and black shoes. He is holding a black and white photo of a woman in front of a white background. She is wearing a white shirt, black pants, and black shoes. She is holding a black and white photo of a man in front of a white background. He is wearing a white shirt, black pants, and black shoes. She is holding a black and white photo of a woman in front of a white background. She is wearing a white shirt, black pants,."
+  },
+  {
+    "image": "validation/images/eqcdddmEXVfhr2wIJBObmQ.jpg",
+    "target": "The sidewalk is centered in the view, curving gently to the right after 5 meters. A pedestrian crossing sign is positioned approximately 10 meters ahead, indicating a road intersection. The path is clear for next 10 meters.",
+    "prediction": "Planning a trip to New York City? Here's a list of the best things to do in New York City."
+  },
+  {
+    "image": "validation/images/eznhfOKyobEzwfWKhtYMJA.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a hedge on the left and parked cars on the right. The path is clear for next 10 meters.",
+    "prediction": "Photo of the front view of a black and white photo of a woman standing in front of a white wall. She is wearing a black top and is holding a black and white photo of a woman in front of a white wall. She is standing in front of a white wall. She is wearing a black top and is holding a black and white photo of a woman in front of a white wall. She is standing in front of a white wall. She is wearing a black top and is holding a black and white photo of a woman in front of a white wall. She is standing in front of a white wall. She is wearing a."
+  },
+  {
+    "image": "validation/images/ffdaA2l3TKDqm1xNoyEJzQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a historic building on the left and a cobblestone street on the right. A few pedestrians are walking along the path, which appears clear for navigation.",
+    "prediction": "Edinburgh, Scotland, United Kingdom - August 10, 2018: A view of the Edinburgh Castle in."
+  },
+  {
+    "image": "validation/images/hf-EDw81eTtz4SSvXUpDAQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a metal fence on the right and a road on the left. A parking meter stands approximately 2 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "View full screen - View 1 of Lot 1.1.2.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2."
+  },
+  {
+    "image": "validation/images/image_11.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a building on the right. A cyclist is riding 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Footer image for the article A New Year, A New You: How To Get Started With Your New Year's Resolutions."
+  },
+  {
+    "image": "validation/images/image_12.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a brick-paved area on the right. A large stone partially blocks the path 5 meters ahead.",
+    "prediction": "Footer image for the event World Cup 2018 - Qualifiers - Group C - Group Stage - Group A - Group B - Group C - Group D - Group E - Group F - Group G - Group H - Group I - Group J - Group K - Group L - Group M - Group N - Group O - Group P - Group Q - Group R - Group S - Group T - Group U - Group V - Group W - Group X - Group Y - Group Z - Group 1 - Group 2 - Group 3 - Group 4 - Group 5 - Group 6 - Group 7 - Group 8 - Group 9 - Group 10 - Group."
+  },
+  {
+    "image": "validation/images/image_130.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a grassy area with a low wall on the right side. A traffic cone is placed approximately 3 meters ahead on the left side, partially obstructing the path. The path appears clear for navigation.",
+    "prediction": "How to Choose the Right Type of Flooring for Your Home."
+  },
+  {
+    "image": "validation/images/image_146.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a road on the right. A pole stands approximately 3 meters ahead on the left side, partially obstructing the path. The path appears clear for navigation.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_182.jpg",
+    "target": "The sidewalk is on the right side of the view, bordered by a brick wall. A road runs straight ahead, with no immediate obstacles visible.",
+    "prediction": "Video of the Day: The Best."
+  },
+  {
+    "image": "validation/images/image_186.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a grassy area on the right. A utility box stands approximately 3 meters ahead on the right side. The path is clear for navigation.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_192.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a stone wall on the right and parked cars on the left. The path is clear for next 10 meters.",
+    "prediction": "Stainless Steel Kitchen Faucet,."
+  },
+  {
+    "image": "validation/images/image_194.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a brick wall on the right and a road on the left. A bollard stands approximately 3 meters ahead on the left side, partially obstructing the path. The path appears clear for navigation.",
+    "prediction": "Landscaping Contractor -."
+  },
+  {
+    "image": "validation/images/image_21.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a building on the right. A large pole stands approximately 3 meters ahead on the right side, partially obstructing the path. The path appears clear for navigation.",
+    "prediction": "Brighton & Hove Albion v Crystal Palace - Premier League - Football Ground Tour -."
+  },
+  {
+    "image": "validation/images/image_212.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a road on the right. A pole stands approximately 2 meters ahead on the left side, partially obstructing the path. The path is clear for navigation.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_22.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road on the left. A utility box stands approximately 3 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "This image has an empty alt attribute; its file name is Flickr-2.jpg."
+  },
+  {
+    "image": "validation/images/image_227.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a fence on the left and a road on the right. The path is clear for next 10 meters.",
+    "prediction": "Craftsman Style Home Decor:."
+  },
+  {
+    "image": "validation/images/image_249.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a road on the right. A large planter box stands approximately 2 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "Vente de l'automne 2019 - Vente de l'automne 2018 - Vente de l'automne 2017 - Vente de l'automne 2016 - Vente de l'automne 2015 - Vente de l'automne 2014 - Vente de l'automne 2013 - Vente de l'automne 2012 - Vente de l'automne 2011 - Vente de l'automne 2010 - Vente de l'automne 2009 - Vente de l'automne 2008 - Vente de l'automne 2007 - Vente de l'automne 2006 - Vente."
+  },
+  {
+    "image": "validation/images/image_279.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bike lane on the left and a parking lot on the right. A small puddle is on the right 3 meters ahead, partially obstructing the path. The path is mostly clear for next 10 meters.",
+    "prediction": "A photo of a man in a suit and tie standing in front of a white wall. He is wearing a black shirt, a black tie, and black pants. He is holding a black and white photo of a man in a suit and tie standing in front of a white wall. He is wearing a black shirt, a black tie, and black pants. He is looking at the camera."
+  },
+  {
+    "image": "validation/images/image_28.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a building on the right. A pole stands approximately 3 meters ahead on the right side, partially obstructing the path. The path appears clear for navigation.",
+    "prediction": "Street view of a building with a sign that reads: 'Museum of Modern Art'. The sign is in the shape of a building, with the words 'Museum of Modern Art' written on it. The building is in the shape of a building, with the words 'Museum of Modern Art' written on it. The building is in the shape of a building, with the words 'Museum of Modern Art' written on it. The building is in the shape of a building, with the words 'Museum of Modern Art' written on it. The building is in the shape of a building, with the words '."
+  },
+  {
+    "image": "validation/images/image_280.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a parked car on the right. A pedestrian crossing is visible 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "A photo of a woman in a white shirt and black pants standing in front of a white wall. She is wearing a black headband and is holding a black and white photo of a woman in a white shirt and black pants. She is looking at the camera."
+  },
+  {
+    "image": "validation/images/image_286.jpg",
+    "target": "The sidewalk is on the left side of the view, leading towards a pedestrian crossing marked with white lines. A road runs parallel to the sidewalk on the right. A traffic sign pole stands approximately 10 meters ahead on the left. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. There is a black and white photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes."
+  },
+  {
+    "image": "validation/images/image_299.jpg",
+    "target": "The road is centered in the view, with a sidewalk on the left side. A car is parked on the right 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Ventura, CA - The Ventura County Fire Department responded to a report of a fire in a home in the 1700 block of North Ventura Avenue. The Ventura County Fire Department responded to a report of a fire in a home in the 1700 block of North Ventura Avenue. The Ventura County Fire Department responded to a report of a fire in a home in the 1700 block of North Ventura Avenue. The Ventura County Fire Department responded to a report of a fire in a home in the 1700 block of North Ventura Avenue. The Ventura County Fire Department responded to a report of a fire in."
+  },
+  {
+    "image": "validation/images/image_300.jpg",
+    "target": "The road is centered in the view, with a sidewalk on the right side. A car is parked on the right 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. There is a black and white photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes."
+  },
+  {
+    "image": "validation/images/image_311.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a brick wall on the right and a road on the left. A small brick structure stands approximately 3 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in their hand. They are looking at the camera and smiling."
+  },
+  {
+    "image": "validation/images/image_340.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a road on the right. A cyclist is standing near the edge of the sidewalk 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Footer image for the event World Cup 2018 - Qualifiers - Group C - Group Stage - Group D - Group E - Group F - Group G - Group H - Group I - Group J - Group K - Group L - Group M - Group N - Group O - Group P - Group Q - Group R - Group S - Group T - Group U - Group V - Group W - Group X - Group Y - Group Z - Group 1 - Group 2 - Group 3 - Group 4 - Group 5 - Group 6 - Group 7 - Group 8 - Group 9 - Group 10 - Group 11 - Group 12 - Group 13 - Group."
+  },
+  {
+    "image": "validation/images/image_379.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a hedge on the right and parked cars on the left. The path is clear for next 10 meters.",
+    "prediction": "Ford F-150 SVT Raptor SuperCrew 4x4 Crew Cab 6.2L Power Stroke Turbo Diesel."
+  },
+  {
+    "image": "validation/images/image_381.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a brick wall on the right and parked cars on the left. A pole stands approximately 2 meters ahead on the right side, partially obstructing the path. The path is narrow but clear for navigation.",
+    "prediction": "Renault Kangoo 1.5 dCi 110CV 5p."
+  },
+  {
+    "image": "validation/images/image_393.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a brick wall with a metal railing on the left and parked cars on the right. A pole stands approximately 2 meters ahead on the left side. The path is clear for navigation.",
+    "prediction": "Footage of a man walking through a forest with a woman in the background. The woman is wearing a black dress and is holding a black umbrella. The man is wearing a white shirt and is holding a black umbrella. The woman is wearing a black dress and is holding a black umbrella. The man is wearing a white shirt and is holding a black umbrella. The woman is wearing a black dress and is holding a black umbrella. The man is wearing a white shirt and is holding a black umbrella. The woman is wearing a black dress and is holding a black umbrella. The man is wearing a white shirt and is holding a black umbrella."
+  },
+  {
+    "image": "validation/images/image_415.jpg",
+    "target": "The sidewalk is on the left side of the view, curving gently to the right after 5 meters. A tree stands approximately 10 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The person is."
+  },
+  {
+    "image": "validation/images/image_429.jpg",
+    "target": "The sidewalk is centered in the view, bordered by hedges on the left and a parked van on the right. A lamppost stands approximately 5 meters ahead on the right side. The path is clear for navigation.",
+    "prediction": "Ford Fiesta 1.0 EcoBoost 125PS Titanium 5Dr Manual [Start Stop] - Thumbnail 1."
+  },
+  {
+    "image": "validation/images/image_435.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a tall hedge on the left and a road on the right. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/image_456.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a parked car on the right. A pole stands approximately 10 meters ahead on the left side. The path is clear for navigation.",
+    "prediction": "Footer image for the post titled: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best:."
+  },
+  {
+    "image": "validation/images/image_463.jpg",
+    "target": "The sidewalk is centered in the view, bordered by hedges on the left and a road on the right. The path is clear for next 10 meters.",
+    "prediction": "Footer image for the event World Cup 2018 - Qualifiers - Group C - Group Stage - Group D - Group E - Group F - Group G - Group H - Group I - Group J - Group K - Group L - Group M - Group N - Group O - Group P - Group Q - Group R - Group S - Group T - Group U - Group V - Group W - Group X - Group Y - Group Z - Group 1 - Group 2 - Group 3 - Group 4 - Group 5 - Group 6 - Group 7 - Group 8 - Group 9 - Group 10 - Group 11 - Group 12 - Group 13 - Group."
+  },
+  {
+    "image": "validation/images/image_477.jpg",
+    "target": "The sidewalk is centered in the view, bordered by hedges on the right side and parked cars on the left. The path is clear for next 10 meters.",
+    "prediction": "Parking space for sale in the center of the city."
+  },
+  {
+    "image": "validation/images/image_48.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the right side. A bollard stands approximately 2 meters ahead on the left, partially obstructing the path. The sidewalk appears clear for navigation.",
+    "prediction": "How to Choose the Right Type of Flooring for Your Home."
+  },
+  {
+    "image": "validation/images/image_486.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a building on the right. A bicycle wheel is positioned 3 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in their hand. They are looking at the camera and smiling."
+  },
+  {
+    "image": "validation/images/image_494.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a grassy area on the right. A pole stands approximately 5 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "Trailblazers: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best."
+  },
+  {
+    "image": "validation/images/image_520.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the right side. A cyclist is riding on the road 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Reduce Your Carbon Footprint With These Eco-Friendly Cleaning Products."
+  },
+  {
+    "image": "validation/images/image_525.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bike lane on the left and a grassy area on the right. The path is clear for next 10 meters.",
+    "prediction": "Reduce Your Carbon Footprint With These Eco-Friendly Products."
+  },
+  {
+    "image": "validation/images/image_537.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bike lane on the left and a grassy area on the right. A pole stands approximately 3 meters ahead on the right side, partially obstructing the path. The path appears clear for navigation.",
+    "prediction": "Footer image for the event World Cup 2018 - Qualifiers - Group A - Group B - Group C - Group D - Group E - Group F - Group G - Group H - Group I - Group J - Group K - Group L - Group M - Group N - Group O - Group P - Group Q - Group R - Group S - Group T - Group U - Group V - Group W - Group X - Group Y - Group Z - World Cup 2018 - Qualifiers - Group A - Group B - Group C - Group D - Group E - Group F - Group G - Group H - Group I - Group J -."
+  },
+  {
+    "image": "validation/images/image_559.jpg",
+    "target": "The pedestrian crossing is centered in the view, with a zebra-striped pedestrian crossing marked on the road. A red bike lane runs parallel to the left side of the crossing. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. There is a black and white photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes."
+  },
+  {
+    "image": "validation/images/image_563.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bike lane on the left and tall grass on the right. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/image_564.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bike lane on the left and a grassy area on the right. A pole stands approximately 10 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/image_57.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a building on the right. A pole stands on the right side, 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Pink and Black Striped T-Shirt with Black and White Striped T-Shirt and Black and White Striped T-Shirt with Black and White Striped T-Shirt with Black and White Striped T-Shirt with Black and White Striped T-Shirt with Black and White Striped T-Shirt with Black and White Striped T-Shirt with Black and White Striped T-Shirt with Black and White Striped T-Shirt with Black and White Striped T-Shirt with Black and White Striped T-Shirt with Black and White Striped T-."
+  },
+  {
+    "image": "validation/images/image_573.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bike lane on the left and a hedge on the right. A utility cover is embedded in the sidewalk 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Dreaming of a white Christmas? Here's how to make it happen with a little help from your friends."
+  },
+  {
+    "image": "validation/images/image_574.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bike lane on the left and dense bushes on the right. The path is clear for next 10 meters.",
+    "prediction": "Dreaming of a white Christmas? Here's how to make it happen with a little help from your friends."
+  },
+  {
+    "image": "validation/images/image_576.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bike lane on the left and a hedge on the right. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_593.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bike lane on the left and a road on the right. A car is parked 5 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "Ford Fiesta 1.0 EcoBoost 125PS Titanium 5Dr Manual [Start Stop]."
+  },
+  {
+    "image": "validation/images/image_615.jpg",
+    "target": "The sidewalk is on the right side of the view, bordered by a wooden fence and a building. A road runs along the left side. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in their hand. They are looking at the camera and smiling."
+  },
+  {
+    "image": "validation/images/image_629.jpg",
+    "target": "The sidewalk is on the right side of the view, bordered by a stone wall with utility boxes embedded in it. A car is parked on the road directly ahead, 5 meters away. The path is clear for navigation.",
+    "prediction": "Vehicle Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Accessories - Car Access."
+  },
+  {
+    "image": "validation/images/image_63.jpg",
+    "target": "The pedestrian crossing is centered in the view, with a zebra-striped pedestrian crossing marked on the road. A car is parked on the left side of the road, 5 meters away. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. The person is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of."
+  },
+  {
+    "image": "validation/images/image_656.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building with large pillars on the right side. A pole stands near the edge of the sidewalk 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_658.jpg",
+    "target": "The sidewalk is centered in the view, leading to a pedestrian crossing. A bollard stands approximately 3 meters ahead on the right side, partially obstructing the path. The sidewalk is clear for navigation.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_660.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a wall on the right. A trash bin is positioned approximately 5 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. There is a black and white photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. There is a black and white photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. There is a black and white photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. There."
+  },
+  {
+    "image": "validation/images/image_685.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a parked car on the right. A few pedestrians are walking ahead, approximately 3 meters away. The path is clear for navigation.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. There is a black and white photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes."
+  },
+  {
+    "image": "validation/images/image_688.jpg",
+    "target": "The sidewalk is centered in the view, bordered by outdoor seating areas with tables and chairs on both sides. A pole stands on the right side 3 meters ahead, partially obstructing the path. The path is clear for navigation.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_690.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a road on the right. A pole stands approximately 5 meters ahead on the right side. The path is clear for navigation.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_7.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a construction site with a fence on the right side. A road runs parallel to the left side. The path is clear for next 10 meters.",
+    "prediction": "Road Trip: A Day in the Life of a Tourist in New York City."
+  },
+  {
+    "image": "validation/images/image_708.jpg",
+    "target": "The sidewalk is centered in the view, with a pole on the right side 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/image_727.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a bike lane on the left and a wall on the right. A car is parked on the left side, 5 meters away. The path is clear for next 10 meters.",
+    "prediction": "Stainless Steel Wire Mesh Fence,."
+  },
+  {
+    "image": "validation/images/image_728.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a wall on the right and a road with parked cars on the left. A large tree trunk stands approximately 3 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_73.jpg",
+    "target": "The sidewalk is centered in the view, bordered by hedges on the right side and a road on the left. A small crack runs along the edge of the sidewalk, which may pose a tripping risk. The path appears clear for next 10 meters.",
+    "prediction": "Footer image for the article F1 Grand Prix de Monaco 2014: Qualifying Results."
+  },
+  {
+    "image": "validation/images/image_732.jpg",
+    "target": "The sidewalk is centered in the view, bordered by hedges on both sides. A lamppost stands approximately 10 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "Stainless Steel Wire Mesh Fence."
+  },
+  {
+    "image": "validation/images/image_733.jpg",
+    "target": "The sidewalk is centered in the view, with a road on the left and a hedge on the right. A pole stands approximately 10 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_742.jpg",
+    "target": "The sidewalk is centered in the view, bordered by hedges on the right side and parked cars on the left. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_746.jpg",
+    "target": "The sidewalk is centered in the view, bordered by grass on both sides. A bus stop with a shelter is visible approximately 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_747.jpg",
+    "target": "The sidewalk is centered in the view, bordered by grass on both sides. A bench is positioned on the right side, 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Wonderful Home Decorating Ideas For Your Home. Home Decorating Ideas For Your Home. Home Decorating Ideas For Your Home. Home Decorating Ideas For Your Home. Home Decorating Ideas For Your Home. Home Decorating Ideas For Your Home. Home Decorating Ideas For Your Home. Home Decorating Ideas For Your Home. Home Decorating Ideas For Your Home. Home Decorating Ideas For Your Home. Home Decorating Ideas For Your Home. Home Decorating Ideas For Your Home. Home Decorating Ideas For Your Home."
+  },
+  {
+    "image": "validation/images/image_751.jpg",
+    "target": "The pedestrian crossing is centered in the view, with a zebra-striped road marked in white. A tree stands approximately 5 meters ahead on the right side, partially obstructing the path. The sidewalk continues straight after the crossing.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. There is a black and white photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes."
+  },
+  {
+    "image": "validation/images/image_753.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a grassy area with a tree on the left and a row of bollards on the right. The path is clear for next 10 meters.",
+    "prediction": "Footer image for the event World Cup 2018 - Qualifying - Group A - Group B - Group C - Group D - Group E - Group F - Group G - Group H - Group I - Group J - Group K - Group L - Group M - Group N - Group O - Group P - Group Q - Group R - Group S - Group T - Group U - Group V - Group W - Group X - Group Y - Group Z - Group A - Group B - Group C - Group D - Group E - Group F - Group G - Group H - Group I - Group J - Group K - Group L - Group."
+  },
+  {
+    "image": "validation/images/image_770.jpg",
+    "target": "The sidewalk is centered in the view, leading to a pedestrian crossing marked with white zebra lines. A pole stands on the right side 3 meters ahead, partially obstructing the path. The path is clear for navigation.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/image_780.jpg",
+    "target": "The sidewalk is centered in the view, bordered by grass on both sides. A wooden bench is positioned on the right side, 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Footwear - Shoes - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sneakers - Sne."
+  },
+  {
+    "image": "validation/images/image_799.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a grassy area with a tree on the left and a building on the right. A car is parked near the tree, partially obstructing the path. The path is clear for next 10 meters.",
+    "prediction": "Ford Fiesta 1.0 EcoBoost 125PS Titanium 5Dr Manual [Start Stop] - Thumbnail 1."
+  },
+  {
+    "image": "validation/images/image_803.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road with parked cars on the left and a grassy area with trees on the right. The path is clear for next 10 meters.",
+    "prediction": "Footage of a man walking through a forest with a woman in the background. The woman is wearing a white dress and is holding a white flower. The man is wearing a black suit and is holding a black flower. The man is walking towards the woman and the woman is walking away from the man. The woman is wearing a white dress and is holding a white flower. The man is wearing a black suit and is holding a black flower. The man is walking towards the woman and the woman is walking away from the man. The woman is wearing a white dress and is holding a white flower. The man is wearing a black suit and."
+  },
+  {
+    "image": "validation/images/image_81.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a hedge on the right side and a road on the left. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_830.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and wooden planters on the right. The path is clear for next 10 meters.",
+    "prediction": "Dreaming of a white Christmas? Here's how to make it happen with a little help from your friends."
+  },
+  {
+    "image": "validation/images/image_835.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a hedge on the right side and a road on the left. A pedestrian crossing sign is visible approximately 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_840.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road on the left. A drainage grate is embedded in the sidewalk 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_843.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road on the left. A pedestrian crossing sign is visible 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Stainless Steel Kitchen Faucet,."
+  },
+  {
+    "image": "validation/images/image_859.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road with parked cars on the left. A pole stands approximately 5 meters ahead on the left side, partially obstructing the path. The path is mostly clear for navigation.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_86.jpg",
+    "target": "The sidewalk is centered in the view, leading to a road intersection with a vehicle parked 5 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_860.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road with parked cars on the left. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_863.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road with bollards on the left. A pedestrian crossing is visible across the road. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes. There is a black and white photo of a person standing in front of a white background. The person is wearing a white shirt, black pants, and black shoes."
+  },
+  {
+    "image": "validation/images/image_873.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a cobblestone road on the left and a building on the right. A large chalkboard stands on the right side, partially blocking the path. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in their hand. They are looking at the camera and smiling."
+  },
+  {
+    "image": "validation/images/image_876.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a cobblestone road on the left and a row of potted plants on the right. A car is parked 5 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "Stainless Steel Kitchen Faucet,."
+  },
+  {
+    "image": "validation/images/image_878.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and parked cars on the left. A pole stands approximately 5 meters ahead on the left side. The path is clear for navigation.",
+    "prediction": "Stainless Steel Wire Mesh Cable Ties."
+  },
+  {
+    "image": "validation/images/image_908.jpg",
+    "target": "The sidewalk is centered in the view, leading to a pedestrian crossing marked with white zebra lines. A traffic light pole stands on the left side, 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Footer image for the event World Cup 2018 - Qualifiers - Group C - Group Stage - Group D - Group E - Group F - Group G - Group H - Group I - Group J - Group K - Group L - Group M - Group N - Group O - Group P - Group Q - Group R - Group S - Group T - Group U - Group V - Group W - Group X - Group Y - Group Z - Group 1 - Group 2 - Group 3 - Group 4 - Group 5 - Group 6 - Group 7 - Group 8 - Group 9 - Group 10 - Group 11 - Group 12 - Group 13 - Group."
+  },
+  {
+    "image": "validation/images/image_913.jpg",
+    "target": "The sidewalk is centered in the view, bordered by parked cars on the left and a building with a bicycle rack on the right. The path is clear for next 10 meters.",
+    "prediction": "Footer image for the event World Cup 2018 - Qualifiers - Group C - Group Stage - Group A - Group B - Group C - Group D - Group E - Group F - Group G - Group H - Group I - Group J - Group K - Group L - Group M - Group N - Group O - Group P - Group Q - Group R - Group S - Group T - Group U - Group V - Group W - Group X - Group Y - Group Z - Group 1 - Group 2 - Group 3 - Group 4 - Group 5 - Group 6 - Group 7 - Group 8 - Group 9 - Group 10 - Group."
+  },
+  {
+    "image": "validation/images/image_917.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a low stone wall on the right and a grassy area with trees on the left. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a white microphone in their hand. They are looking at the camera and smiling."
+  },
+  {
+    "image": "validation/images/image_918.jpg",
+    "target": "The sidewalk is centered in the view, leading towards a pedestrian crossing marked with white zebra lines. A grassy area borders the left side, while a road runs parallel on the right. The path is clear for next 10 meters.",
+    "prediction": "CUSTOMIZED CUSTOMIZED CUSTOMIZED."
+  },
+  {
+    "image": "validation/images/image_919.jpg",
+    "target": "The pedestrian crossing is centered in the view, with a zebra crossing marked on the road. A few pedestrians are standing near the sidewalk on the right side, approximately 5 meters away. The path is clear for navigation.",
+    "prediction": "Video of the Day: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of the Best: The Best of."
+  },
+  {
+    "image": "validation/images/image_924.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a grassy area with a parked car on the left and a fence on the right. The path is clear for next 10 meters.",
+    "prediction": "Stainless Steel Wire Mesh Cable Ties."
+  },
+  {
+    "image": "validation/images/image_937.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a wooden fence on the right side and parked cars on the left. A bench is positioned on the right 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Footer image for the event World Cup 2018 - Qualifiers - Group C - Group Stage - Group A - Group B - Group C - Group D - Group E - Group F - Group G - Group H - Group I - Group J - Group K - Group L - Group M - Group N - Group O - Group P - Group Q - Group R - Group S - Group T - Group U - Group V - Group W - Group X - Group Y - Group Z - Group 1 - Group 2 - Group 3 - Group 4 - Group 5 - Group 6 - Group 7 - Group 8 - Group 9 - Group 10 - Group."
+  },
+  {
+    "image": "validation/images/image_946.jpg",
+    "target": "The sidewalk is centered in the view, bordered by grass on both sides. A pedestrian crossing is visible 10 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Footer image for the article F1 Grand Prix de Monaco 2014: Qualifying Results."
+  },
+  {
+    "image": "validation/images/image_967.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a grassy area with a few trees on the left and a building on the right. A red car is parked on the left side, 5 meters away. The path is clear for next 10 meters.",
+    "prediction": "Trailer Hitch Replacement Parts -."
+  },
+  {
+    "image": "validation/images/image_988.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a grassy area with a concrete barrier on the right side. A bus stop sign stands approximately 5 meters ahead on the left. The path is clear for next 10 meters.",
+    "prediction": "Footer image for the event World Cup 2018 - Qualifiers - Group A - Group B - Group C - Group D - Group E - Group F - Group G - Group H - Group I - Group J - Group K - Group L - Group M - Group N - Group O - Group P - Group Q - Group R - Group S - Group T - Group U - Group V - Group VI - Group VII - Group VIII - Group IX - Group X - Group XI - Group XII - Group XIII - Group XIV - Group XV - Group XVI - Group XVII - Group XVIII - Group XIX - Group XX."
+  },
+  {
+    "image": "validation/images/image_989.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a wall on the right and a road with parked cars on the left. A pole stands approximately 3 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "Footer image for the article F1 Grand Prix de Monaco 2014: Qualifying Results."
+  },
+  {
+    "image": "validation/images/image_991.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a wall with bushes on the left and a road on the right. A car is parked on the left side, 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "How to Choose the Right Type of Flooring for Your Home."
+  },
+  {
+    "image": "validation/images/image_992.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and a parked car on the right. The path is clear for next 10 meters.",
+    "prediction": "How to Choose the Right Type of Flooring for Your Home."
+  },
+  {
+    "image": "validation/images/image_995.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the left and parked cars on the right. A pole stands approximately 10 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "BMW 3 Series E46 320d M Sport 2.0 Automatic Diesel Saloon (2006 - 2010)."
+  },
+  {
+    "image": "validation/images/irbbK8RZH_nfyuLMJVk73g.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a stone railing on the left and a road with moving vehicles on the right. A traffic sign pole stands approximately 2 meters ahead on the left side. The path is clear for navigation.",
+    "prediction": "Rustic Wooden Wall Decor For Living Room:."
+  },
+  {
+    "image": "validation/images/jGEQHcmRP80Nqe4KLvXoqg.jpg",
+    "target": "The sidewalk is on the left side of the view, bordered by a metal fence on the right. A pedestrian crossing signal pole stands approximately 2 meters ahead on the left. The path is clear for next 10 meters.",
+    "prediction": "Cycling in the UK: A Guide to Cycling in the UK -."
+  },
+  {
+    "image": "validation/images/jWvmQ9laowUq9bCshEAT3g.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road on the left. A \"Cyclists Only\" sign stands approximately 3 meters ahead, partially obstructing the path. The path appears mostly clear for navigation.",
+    "prediction": "Edinburgh, Scotland, United Kingdom - August 10, 2018: A view of the Edinburgh Castle in."
+  },
+  {
+    "image": "validation/images/jfBhDO_qfvaUrnZHRlQOYA.jpg",
+    "target": "The sidewalk curves gently to the left after 5 meters, with a construction site on the right side. A portable toilet stands approximately 3 meters ahead on the right.",
+    "prediction": "Portland, OR – The Oregon Department of Fish and Wildlife (ODFW) announced today that it has closed a portion of the Willamette River in the Willamette National Wildlife Refuge (WNWR) due to concerns about the presence of Asian carp. The closure of the Willamette River in the Willamette National Wildlife Refuge (WNWR) is a precautionary measure to prevent the spread of Asian carp from the Willamette River in the Willamette National Wildlife Refuge (WNWR) to the Willamette River in the Willamette National Wildlife Refuge (WNWR). The Oregon Department of Fish and Wildlife (."
+  },
+  {
+    "image": "validation/images/knS8I4MGxhn6Yf4aidd69g.jpg",
+    "target": "The sidewalk is centered in the view, leading to a pedestrian crossing with a zebra-striped road. A bus is parked on the left side, 10 meters away. The path is clear for next 10 meters.",
+    "prediction": "Los Angeles, California, USA - August 10, 2018: A view of the exterior of the Los Angeles County Museum of Art (LACMA) in Los Angeles, California. LACMA is one of the largest art museums in the United States. It is located on Wilshire Boulevard in the Arts District of downtown Los Angeles."
+  },
+  {
+    "image": "validation/images/ldd3v1RZauiGlGU5Nx4rug.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a brick wall on the right and parked cars on the left. The path is clear for next 10 meters.",
+    "prediction": "View full screen - View 1 of Lot 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1."
+  },
+  {
+    "image": "validation/images/lekBzlV_c1TDPe_JpuscWQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the right side. A pole stands approximately 3 meters ahead on the left, partially obstructing the path. The sidewalk appears clear for navigation.",
+    "prediction": "London, United Kingdom - May 19, 2018: A view of the exterior of the London Eye. The London Eye is a Ferris wheel located on the South Bank of the River Thames in London, England. It is the world's tallest Ferris wheel, and the second-tallest Ferris wheel in the world. The London Eye is owned and operated by the London Borough of Southwark. The London Eye is the world's tallest Ferris wheel, and the second-tallest Ferris wheel in the world. It is located on the South Bank of the River Thames in London, England. The London."
+  },
+  {
+    "image": "validation/images/lnLOZDd87V_ExS0WgX3Zdg.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the right and a building on the left. A pole stands approximately 5 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "A photo of a woman standing in front of a wall with a sign that reads: 'Welcome to the home of the world's largest collection of rare books and manuscripts.' The woman is wearing a white shirt, black pants, and black shoes. She is standing in front of a wall with a sign that reads: 'Welcome to the home of the world's largest collection of rare books and manuscripts.' The woman is standing in front of a wall with a sign that reads: 'Welcome to the home of the world's largest collection of rare books and manuscripts.' The woman is standing in front of a wall with a sign that reads: '."
+  },
+  {
+    "image": "validation/images/n2CLOI7u5RfpOhlEnNhvKQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by trees on the right and a road on the left. A utility box is placed near the right side of the path, approximately 3 meters ahead. The path appears clear for navigation.",
+    "prediction": "A picture of a man in a suit and a woman in a dress standing in front of a white background. The man is wearing a black suit and the woman is wearing a white dress. They are both looking at the camera and smiling. The man is wearing a black suit and the woman is wearing a white dress. They are both looking at the camera and smiling. The man is wearing a black suit and the woman is wearing a white dress. They are both looking at the camera and smiling. The man is wearing a black suit and the woman is wearing a white dress. They are both looking at the camera and smiling. The man."
+  },
+  {
+    "image": "validation/images/ojEnYlhLlY_bJGPOQYr8tg.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a stone wall on the left and a road on the right. The path is clear for next 10 meters.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/p2B3z8SQp_vrA7z3AZu2hQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road with parked cars on the left. A parking meter stands 3 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "Photo of the front cover of the book."
+  },
+  {
+    "image": "validation/images/p4yMkbdRQDBc1S5Uw7C7eg.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a hedge on the right and a road on the left. A pedestrian crossing sign is mounted on a pole 5 meters ahead, indicating a crossing area. The path is clear for next 10 meters.",
+    "prediction": "HOTEL DE VILLE - HOTEL DE VILLE -."
+  },
+  {
+    "image": "validation/images/pTXix6Rj-Qj2SnA6ATj2PQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the left and a road on the right. A lamppost stands approximately 3 meters ahead on the right side of the sidewalk. The path is clear for next 10 meters.",
+    "prediction": "Downtown San Diego, CA - The San Diego Union-Tribune - The San Diego Union-Tribune - The San Diego Union-Tribune - The San Diego Union-Tribune - The San Diego Union-Tribune - The San Diego Union-Tribune - The San Diego Union-Tribune - The San Diego Union-Tribune - The San Diego Union-Tribune - The San Diego Union-Tribune - The San Diego Union-Tribune - The San Diego Union-Tribune - The San Diego Union-Tribune - The San Diego Union."
+  },
+  {
+    "image": "validation/images/qDSDXc0iex_smLIZ34jM-g.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a metal railing on the left and a road on the right. A tree stands approximately 5 meters ahead on the right side, partially obstructing the path. The path appears clear for navigation.",
+    "prediction": "A photo of a person standing in front of a white background. The person is wearing a black t-shirt and is holding a black and white photo of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is of a person standing in front of a white background. The photo is."
+  },
+  {
+    "image": "validation/images/rl-5k_EIs194T59xDJfcmA.jpg",
+    "target": "The sidewalk is centered in the view, leading towards a small pond with a stone wall around it. A lamppost stands approximately 5 meters ahead on the right side. The path is clear for next 10 meters.",
+    "prediction": "Photo of the front of a black and white photo of a man in a white shirt and black pants standing in front of a white wall with a black and white photo of a man in a white shirt and black pants standing in front of a black and white photo of a man in a white shirt and black pants standing in front of a black and white photo of a man in a white shirt and black pants standing in front of a black and white photo of a man in a white shirt and black pants standing in front of a black and white photo of a man in a white shirt and black pants standing in front of a black and white photo."
+  },
+  {
+    "image": "validation/images/su4QrK4hJHWXr9FLiwvYDg.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road with a yellow line on the left and a covered walkway on the right. A white railing runs along the right side. The path is clear for next 10 meters.",
+    "prediction": "Singapore Airlines (SIA) has announced that it will be launching a new service from Singapore to the Seychelles. The new service will be operated by a Boeing 787-8 Dreamliner. The new service will be the first time that SIA will be operating a 787-8 Dreamliner on the Seychelles route. The new service will be operated on a weekly basis. The Boeing 787-8 Dreamliner will be the first time that SIA will be operating a 787-8 Dreamliner on the Seychelles route. The Boeing 787-8 Dreamliner will be the first time that S."
+  },
+  {
+    "image": "validation/images/t7C0J_Az0YgIy1DmoFCu-w.jpg",
+    "target": "The sidewalk is centered in the view, leading towards a pedestrian crossing with traffic lights visible ahead. A utility pole stands approximately 5 meters ahead on the right side, partially obstructing the path. The sidewalk appears clear for navigation.",
+    "prediction": "View a Larger Image of Tactical Tailgate T-Shirt - Men's."
+  },
+  {
+    "image": "validation/images/tPsNPVAkpyL4TYygVG_kHA.jpg",
+    "target": "The sidewalk is centered in the view, running alongside a grassy area with a road on the left. A bridge is visible in the distance, approximately 10 meters ahead. The path is clear for navigation.",
+    "prediction": "Bridgewater, New Jersey, United States of America (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business Wire) (Photo: Business."
+  },
+  {
+    "image": "validation/images/tso1kwhyS2mORbWk5f5bQw.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a metal fence with bicycles parked against it on the left side. A large tree stands near the fence, partially blocking the path. On the right side, a building borders the sidewalk. The path is clear for navigation.",
+    "prediction": "Cherry Blossom Festival in Washington DC, Cherry Blossom Festival Washington DC,."
+  },
+  {
+    "image": "validation/images/u7rGBq5VXPw2nYX4_9eUKg.jpg",
+    "target": "The sidewalk is centered in the view, leading towards a pedestrian crossing marked with a red circular \"X\" sign. A large planter with yellow flowers stands approximately 5 meters ahead on the left side. Several pedestrians are walking along the path, which appears clear for navigation.",
+    "prediction": "St. Louis Park, MN - April 21, 2017: A view of the St. Louis Park, MN, USA, USA, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN, MN,."
+  },
+  {
+    "image": "validation/images/uEVeAIICDqLCsEPbzMBo_w.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and parked cars on the left. A bicycle is parked against the wall on the right side, 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Paris, France - May 25, 2017: A view of the Eiffel Tower in Paris, France. The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, who designed it in 1889 for the World's Fair."
+  },
+  {
+    "image": "validation/images/uwEVM45iIdSX5kgKhLXX_Q.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building with large windows on the left and a road on the right. A traffic light pole stands approximately 5 meters ahead, partially obstructing the path. The sidewalk appears wet, increasing the risk of slipping. Navigation requires caution.",
+    "prediction": "Edinburgh, Scotland, United Kingdom - August 10, 2018: A view of the Edinburgh Castle in."
+  },
+  {
+    "image": "validation/images/vJOckJcx-z43OLn-gP6PZg.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a metal railing on the left and a building on the right. A bicycle is parked against the railing 3 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "Brighton & Hove Albion F.C. Homepage. This."
+  },
+  {
+    "image": "validation/images/vszWVyR6TowRKZpdVUVgvQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a metal fence on the right side and parked cars on the left. A pole with a pedestrian crossing sign stands approximately 3 meters ahead, partially obstructing the path. The path appears clear for navigation.",
+    "prediction": "Street view of a building with a sign that reads: 'Museum of the History of Polish Jews' and a sign that reads: 'Museum of the History of Polish Jews' and a sign that reads: 'Museum of the History of Polish Jews' and a sign that reads: 'Museum of the History of Polish Jews' and a sign that reads: 'Museum of the History of Polish Jews' and a sign that reads: 'Museum of the History of Polish Jews' and a sign that reads: 'Museum of the History of Polish Jews' and a sign that reads: 'Museum of the."
+  },
+  {
+    "image": "validation/images/wAOOVL6l9PPTm_lBI2FSfQ.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building on the right and a road on the left. A metal bike rack stands 3 meters ahead on the left side. The path is clear for next 10 meters.",
+    "prediction": "Brighton & Hove Albion v Crystal Palace - Premier League Preview: Crystal Palace v Brighton & Hove Albion - Premier League Preview: Crystal Palace v Brighton & Hove Albion - Premier League Preview: Crystal Palace v Brighton & Hove Albion - Premier League Preview: Crystal Palace v Brighton & Hove Albion - Premier League Preview: Crystal Palace v Brighton & Hove Albion - Premier League Preview: Crystal Palace v Brighton & Hove Albion - Premier League Preview: Crystal Palace v Brighton & Hove Albion - Premier League Preview: Crystal Palace v Brighton & H."
+  },
+  {
+    "image": "validation/images/xiqUSobFT9J_fRvwezxTVg.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a tree on the left and a building on the right. A construction barrier with a blue arrow sign stands approximately 5 meters ahead, partially blocking the path. The path is clear for navigation.",
+    "prediction": "Amalfi Coast, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy, Italy."
+  },
+  {
+    "image": "validation/images/xvEtJLeqZUEdGds10_TMUw.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a road on the right side. A pole stands approximately 3 meters ahead on the right, partially obstructing the path. Pedestrians are walking along the sidewalk, and the path appears clear for navigation.",
+    "prediction": "Photo of the front cover of the book."
+  },
+  {
+    "image": "validation/images/ySIL5hAKh-WK0Y3qVE8Z_Q.jpg",
+    "target": "The sidewalk is centered in the view, bordered by a building with a metal fence on the right and trees on the left. A bicycle is parked against the fence on the right side, 5 meters ahead. The path is clear for next 10 meters.",
+    "prediction": "A photo of a woman standing in front of a wall of books. The woman is wearing a white shirt, black pants, and black shoes. She is standing in front of a wall of books. The books are arranged in a row. The books are arranged in a row."
+  },
+  {
+    "image": "validation/images/yeMrH_vVD72OEjS6-qC3TA.jpg",
+    "target": "The sidewalk is centered in the view, bordered by metal railings on both sides. A stop sign is positioned 2 meters ahead, partially obstructing the path. The path is clear for navigation after the stop sign.",
+    "prediction": "The New York Times - The New York Times -."
+  }
+]

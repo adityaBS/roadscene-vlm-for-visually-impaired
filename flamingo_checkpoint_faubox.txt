@@ -1,0 +1,1 @@
+wget https://faubox.rrze.uni-erlangen.de/dl/fiURTeMirFyy9CbP2MiPzh/final_weights.pt

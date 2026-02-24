@@ -1,0 +1,13 @@
+torch
+transformers==4.57.3
+peft
+trl
+accelerate
+bitsandbytes
+datasets
+Pillow
+pycocoevalcap
+torchmetrics
+clip-score
+open_flamingo
+num2words
