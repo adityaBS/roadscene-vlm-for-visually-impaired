@@ -1,7 +1,7 @@
 # RoadScene VLM: Fine-Tuning SmolVLM2-2.2B and OpenFlamingo-3B for Road Scene Captioning and Navigation Cues
 
 ### Prepared by:
-Sushrut Ghimire & Aditya Mallik 
+Aditya Mallik 
 
 # VLM Training, Inference, and Evaluation Guide
 
